@@ -1,0 +1,1801 @@
+group_id,employee_id,employee_name,reference_value,prediction,threshold_5,threshold_7
+1003,110456,Dharani Gayathri ,0,0.0,0,0
+1003,101534,Amit Deshpande,0,0.015,0,0
+1003,117431,George Fernandez,0,0.055,0,0
+1003,106890,Prasanth A J,0,0.985,1,1
+1003,145105,Deepthi Vodapalli,0,0.0,0,0
+1003,121406,Supriya Kulkarni,1,0.995,1,1
+1003,102301,Vishal Singh,0,0.0,0,0
+1003,113694,Deepak Kate,1,0.7,1,1
+1003,114361,Divyashri Bhilare,1,1.0,1,1
+1003,108576,Divyashri Bhilare,0,0.005,0,0
+1003,100365,Ida Victor ,1,1.0,1,1
+1003,103805,Rajni Kadli,1,0.985,1,1
+1003,102998,Aritra Ghosh,0,0.0,0,0
+1003,121900,Hema Dhapola ,1,0.955,1,1
+1003,134126,Matber Ali,0,0.01,0,0
+1003,119115,Sumit Kumar Prasad,0,0.005,0,0
+1003,102397,Mohan Babu,0,0.005,0,0
+1003,109599,Lakshminarayanan  Krishanan ,0,0.01,0,0
+1003,112855,Rajashekar Agurla,0,0.11,0,0
+1003,113568,Kuheli Mukherjee,0,0.015,0,0
+1003,101272,Saikiran D,0,0.04,0,0
+1003,105027,Kuldeep Mishra,0,0.02,0,0
+1003,110559,Karthik R,0,0.005,0,0
+1003,116431,Dheeraj Babbar,0,0.02,0,0
+1003,111864,Sneha Parkar,0,0.005,0,0
+1003,109241,Sitansu Swain,0,0.0,0,0
+1003,138635,Anand Dagare,1,1.0,1,1
+1003,116010,Hari Prasad Ts,0,0.08,0,0
+1003,110213,Parul Jain,0,0.0,0,0
+1003,116407,Bhawna Negi,0,0.04,0,0
+1003,106100,Muthuraj Kalimuthu,0,0.015,0,0
+1003,123181,Ankit Gupta,1,0.735,1,1
+1003,100405,Rahil Ghani,1,1.0,1,1
+1003,105654,Anand Pavan Mandala,0,0.025,0,0
+1003,115282,Sumankumar  Madanu ,0,0.02,0,0
+1003,113851,Neelesh Thallam,1,1.0,1,1
+1003,107726,Rutuja Kohale,0,0.04,0,0
+1003,100787,Deepu Kumar,0,0.05,0,0
+1003,112180,Nabila Mannan,0,0.0,0,0
+1003,118666,Sudarshan Maske,0,0.015,0,0
+1003,109852,Himaja Chanumolu,0,0.005,0,0
+1003,100646,Vikas Kumar,0,0.005,0,0
+1003,107811,Mani Bansal,0,0.005,0,0
+1003,100564,Ashok S,0,0.015,0,0
+1003,127312,Sai Krishna,1,1.0,1,1
+1003,103740,Venkat Kadam,0,0.005,0,0
+1003,105299,Vinod Karunakaran,0,0.005,0,0
+1003,106597,Kumar  P,0,0.005,0,0
+1003,100400,Praveen Aileni,1,0.96,1,1
+1003,103723,Kajal Kumar Roy,0,0.035,0,0
+1003,102113,Datta Gunjal,0,1.0,1,1
+1003,106141,Sachin Wable,1,1.0,1,1
+1003,115060,Nirmala S,1,0.975,1,1
+1003,113998,Jagadeesan T,0,0.01,0,0
+1003,104384,Keerthana Krishnamurthy,0,0.0,0,0
+1003,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1003,115767,Aamir Saif,1,1.0,1,1
+1003,107449,Abhishek Kumar Singh,0,0.005,0,0
+1003,119963,Pintu Kumar Saw,0,0.005,0,0
+1003,115834,Indrasena Manga,0,0.0,0,0
+1003,109575,Nayana Arya,1,0.96,1,1
+1003,127419,Easwar Sudheer,1,0.995,1,1
+1003,101173,Shivani Bharadwaj,0,0.055,0,0
+1003,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1000,108058,Swati Kurdekar,0,0.0,0,0
+1000,117622,Usamah Moin,0,0.0,0,0
+1000,107889,Hamla Ma,0,0.0,0,0
+1000,106422,Bhimarao Kamidi,0,0.0,0,0
+1000,116666,Pankaj Kale,0,0.0,0,0
+1000,106053,Tanuja Sakpal,1,0.0,0,0
+1000,119725,Ravi Teja,1,0.0,0,0
+1000,114160,Anirban Pattanayak,1,0.0,0,0
+1000,123320,Teesta Naskar,1,0.0,0,0
+1000,112200,Prashant Bhaskarwar,1,0.0,0,0
+1000,136286,Divakar Dasannagarir,0,0.0,0,0
+1000,104120,Aditya Polepeddi,0,0.0,0,0
+1000,144357,Lokesh Puppala,0,0.0,0,0
+1000,109383,Sanath Shanmugam,0,0.0,0,0
+1000,133022,Rajni Gautam,0,0.0,0,0
+1000,110555,Manasa Gidige,0,0.0,0,0
+1000,107490,Manasa Gidige,1,0.0,0,0
+1000,109658,Prithviraj R,0,0.0,0,0
+1000,117804,Prathika Akula,1,0.0,0,0
+1000,100230,Kumar Nandan,0,0.0,0,0
+1000,117030,Lakshman P R,0,0.0,0,0
+1000,112360,Vikram Addagulla,0,0.0,0,0
+1006,114361,Divyashri Bhilare,1,0.88756,1,1
+1006,108576,Divyashri Bhilare,0,0.0829238,0,0
+1006,100365,Ida Victor ,1,0.613792,1,0
+1006,103805,Rajni Kadli,1,0.871725,1,1
+1006,102998,Aritra Ghosh,0,0.197046,0,0
+1006,121900,Hema Dhapola ,1,0.912851,1,1
+1006,134126,Matber Ali,0,0.073998,0,0
+1006,119115,Sumit Kumar Prasad,0,0.0556452,0,0
+1006,102397,Mohan Babu,0,0.129067,0,0
+1006,109599,Lakshminarayanan  Krishanan ,0,0.078708,0,0
+1006,112855,Rajashekar Agurla,0,0.376005,0,0
+1006,113568,Kuheli Mukherjee,0,0.0751124,0,0
+1006,101272,Saikiran D,0,0.11564,0,0
+1006,105027,Kuldeep Mishra,0,0.0914166,0,0
+1006,110559,Karthik R,0,0.161187,0,0
+1006,116431,Dheeraj Babbar,0,0.219346,0,0
+1006,111864,Sneha Parkar,0,0.133655,0,0
+1006,109241,Sitansu Swain,0,0.0352384,0,0
+1006,138635,Anand Dagare,1,0.910968,1,1
+1006,116010,Hari Prasad Ts,0,0.344081,0,0
+1006,110213,Parul Jain,0,0.0401433,0,0
+1006,116407,Bhawna Negi,0,0.200781,0,0
+1006,106100,Muthuraj Kalimuthu,0,0.0556102,0,0
+1006,123181,Ankit Gupta,1,0.670812,1,0
+1006,100405,Rahil Ghani,1,0.87976,1,1
+1006,105654,Anand Pavan Mandala,0,0.301936,0,0
+1006,115282,Sumankumar  Madanu ,0,0.096149,0,0
+1006,113851,Neelesh Thallam,1,0.872702,1,1
+1006,107726,Rutuja Kohale,0,0.260332,0,0
+1006,100787,Deepu Kumar,0,0.0547192,0,0
+1006,112180,Nabila Mannan,0,0.141044,0,0
+1006,118666,Sudarshan Maske,0,0.211914,0,0
+1006,109852,Himaja Chanumolu,0,0.128875,0,0
+1006,100646,Vikas Kumar,0,0.0893081,0,0
+1006,107811,Mani Bansal,0,0.0977829,0,0
+1006,100564,Ashok S,0,0.183917,0,0
+1006,127312,Sai Krishna,1,0.915229,1,1
+1006,103740,Venkat Kadam,0,0.0328502,0,0
+1006,105299,Vinod Karunakaran,0,0.220023,0,0
+1006,106597,Kumar  P,0,0.141513,0,0
+1006,100400,Praveen Aileni,1,0.806445,1,1
+1006,103723,Kajal Kumar Roy,0,0.206882,0,0
+1006,102113,Datta Gunjal,0,0.162522,0,0
+1006,106141,Sachin Wable,1,0.907583,1,1
+1006,115060,Nirmala S,1,0.764505,1,1
+1006,113998,Jagadeesan T,0,0.19692,0,0
+1006,104384,Keerthana Krishnamurthy,0,0.0698984,0,0
+1006,114678,Yogeshkumar  Gupta ,0,0.18596,0,0
+1006,115767,Aamir Saif,1,0.924866,1,1
+1006,107449,Abhishek Kumar Singh,0,0.11415,0,0
+1006,119963,Pintu Kumar Saw,0,0.0943949,0,0
+1006,115834,Indrasena Manga,0,0.0643376,0,0
+1006,109575,Nayana Arya,1,0.898378,1,1
+1006,127419,Easwar Sudheer,1,0.932829,1,1
+1006,101173,Shivani Bharadwaj,0,0.133179,0,0
+1006,107075,Gaurav Singh Bhadauria,0,0.08755,0,0
+1006,118590,Adarsh  Kumar,0,0.110984,0,0
+1006,109427,Ashok Nath,0,0.108858,0,0
+1006,116409,Gunavant Jambu,0,0.344296,0,0
+1006,115525,Waseema Masood,0,0.0879791,0,0
+1006,103297,Sachin Usapkar,1,0.561238,1,0
+1006,105922,Vikki Jakkulwar,0,0.034085,0,0
+1006,103924,Savita Pandita,1,0.883554,1,1
+1006,112223,Veer Vikram Singh,0,0.263377,0,0
+1006,119045,Abhay Kumar,1,0.925637,1,1
+1000,124246,Srikanth Pasikanti,1,0.0,0,0
+1000,119721,Vishal Gupta,0,0.0,0,0
+1000,117781,Alen Joses R,1,0.0,0,0
+1000,117933,Sumit Dora,1,0.0,0,0
+1000,104576,Subhasis Das,0,0.0,0,0
+1000,110456,Dharani Gayathri ,0,0.0,0,0
+1000,101534,Amit Deshpande,0,0.0,0,0
+1000,117431,George Fernandez,0,0.0,0,0
+1000,106890,Prasanth A J,0,0.0,0,0
+1000,145105,Deepthi Vodapalli,0,0.0,0,0
+1000,121406,Supriya Kulkarni,1,0.0,0,0
+1000,102301,Vishal Singh,0,0.0,0,0
+1000,113694,Deepak Kate,1,0.0,0,0
+1000,114361,Divyashri Bhilare,1,0.0,0,0
+1000,108576,Divyashri Bhilare,0,0.0,0,0
+1000,100365,Ida Victor ,1,0.0,0,0
+1000,103805,Rajni Kadli,1,0.0,0,0
+1000,102998,Aritra Ghosh,0,0.0,0,0
+1000,121900,Hema Dhapola ,1,0.0,0,0
+1000,134126,Matber Ali,0,0.0,0,0
+1000,119115,Sumit Kumar Prasad,0,0.0,0,0
+1000,102397,Mohan Babu,0,0.0,0,0
+1000,109599,Lakshminarayanan  Krishanan ,0,0.0,0,0
+1000,112855,Rajashekar Agurla,0,0.0,0,0
+1000,113568,Kuheli Mukherjee,0,0.0,0,0
+1000,101272,Saikiran D,0,0.0,0,0
+1000,105027,Kuldeep Mishra,0,0.0,0,0
+1000,110559,Karthik R,0,0.0,0,0
+1000,116431,Dheeraj Babbar,0,0.0,0,0
+1000,111864,Sneha Parkar,0,0.0,0,0
+1000,109241,Sitansu Swain,0,0.0,0,0
+1000,138635,Anand Dagare,1,0.0,0,0
+1000,116010,Hari Prasad Ts,0,0.0,0,0
+1000,110213,Parul Jain,0,0.0,0,0
+1000,116407,Bhawna Negi,0,0.0,0,0
+1000,106100,Muthuraj Kalimuthu,0,0.0,0,0
+1000,123181,Ankit Gupta,1,0.0,0,0
+1000,100405,Rahil Ghani,1,0.0,0,0
+1000,105654,Anand Pavan Mandala,0,0.0,0,0
+1000,115282,Sumankumar  Madanu ,0,0.0,0,0
+1000,113851,Neelesh Thallam,1,0.0,0,0
+1000,107726,Rutuja Kohale,0,0.0,0,0
+1000,100787,Deepu Kumar,0,0.0,0,0
+1000,112180,Nabila Mannan,0,0.0,0,0
+1000,118666,Sudarshan Maske,0,0.0,0,0
+1000,109852,Himaja Chanumolu,0,0.0,0,0
+1000,100646,Vikas Kumar,0,0.0,0,0
+1000,107811,Mani Bansal,0,0.0,0,0
+1000,100564,Ashok S,0,0.0,0,0
+1000,127312,Sai Krishna,1,0.0,0,0
+1000,103740,Venkat Kadam,0,0.0,0,0
+1000,105299,Vinod Karunakaran,0,0.0,0,0
+1000,106597,Kumar  P,0,0.0,0,0
+1000,100400,Praveen Aileni,1,0.0,0,0
+1000,103723,Kajal Kumar Roy,0,0.0,0,0
+1000,102113,Datta Gunjal,0,0.0,0,0
+1000,106141,Sachin Wable,1,0.0,0,0
+1000,115060,Nirmala S,1,0.0,0,0
+1000,113998,Jagadeesan T,0,0.0,0,0
+1000,104384,Keerthana Krishnamurthy,0,0.0,0,0
+1000,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1000,115767,Aamir Saif,1,0.0,0,0
+1000,107449,Abhishek Kumar Singh,0,0.0,0,0
+1000,119963,Pintu Kumar Saw,0,0.0,0,0
+1000,115834,Indrasena Manga,0,0.0,0,0
+1000,109575,Nayana Arya,1,0.0,0,0
+1000,127419,Easwar Sudheer,1,0.0,0,0
+1000,101173,Shivani Bharadwaj,0,0.0,0,0
+1000,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1000,118590,Adarsh  Kumar,0,0.0,0,0
+1000,109427,Ashok Nath,0,0.0,0,0
+1000,116409,Gunavant Jambu,0,0.0,0,0
+1000,115525,Waseema Masood,0,0.0,0,0
+1000,103297,Sachin Usapkar,1,0.0,0,0
+1000,105922,Vikki Jakkulwar,0,0.0,0,0
+1000,103924,Savita Pandita,1,0.0,0,0
+1000,112223,Veer Vikram Singh,0,0.0,0,0
+1000,119045,Abhay Kumar,1,0.0,0,0
+1003,118590,Adarsh  Kumar,0,0.0,0,0
+1003,109427,Ashok Nath,0,0.005,0,0
+1003,116409,Gunavant Jambu,0,0.05,0,0
+1003,115525,Waseema Masood,0,0.0,0,0
+1003,103297,Sachin Usapkar,1,0.72,1,1
+1003,105922,Vikki Jakkulwar,0,0.0,0,0
+1003,103924,Savita Pandita,1,0.98,1,1
+1003,112223,Veer Vikram Singh,0,0.15,0,0
+1003,119045,Abhay Kumar,1,0.995,1,1
+1012,115834,Indrasena Manga,0,0.0,0,0
+1012,109575,Nayana Arya,1,0.91,1,1
+1012,127419,Easwar Sudheer,1,0.99,1,1
+1012,107075,Gaurav Singh Bhadauria,0,0.02,0,0
+1012,101173,Shivani Bharadwaj,0,0.07,0,0
+1012,118590,Adarsh  Kumar,0,0.0,0,0
+1012,109427,Ashok Nath,0,0.02,0,0
+1012,116409,Gunavant Jambu,0,0.04,0,0
+1012,115525,Waseema Masood,0,0.0,0,0
+1012,103297,Sachin Usapkar,1,0.44,0,0
+1005,127419,Easwar Sudheer,1,1.0,1,1
+1005,109575,Nayana Arya,1,1.0,1,1
+1005,108058,Swati Kurdekar,0,0.0,0,0
+1012,119045,Abhay Kumar,1,0.98,1,1
+1012,112223,Veer Vikram Singh,0,0.07,0,0
+1012,103924,Savita Pandita,1,0.99,1,1
+1012,105922,Vikki Jakkulwar,0,0.0,0,0
+1001,119045,Abhay Kumar,1,1.0,1,1
+1005,107490,Manasa Gidige,1,1.0,1,1
+1005,105654,Anand Pavan Mandala,0,0.0,0,0
+1005,100405,Rahil Ghani,1,1.0,1,1
+1005,117622,Usamah Moin,0,0.0,0,0
+1005,107889,Hamla Ma,0,0.0,0,0
+1005,106422,Bhimarao Kamidi,0,0.0,0,0
+1005,116666,Pankaj Kale,0,0.0,0,0
+1005,106053,Tanuja Sakpal,1,1.0,1,1
+1005,119725,Ravi Teja,1,1.0,1,1
+1005,114160,Anirban Pattanayak,1,0.0,0,0
+1005,123320,Teesta Naskar,1,1.0,1,1
+1005,112200,Prashant Bhaskarwar,1,1.0,1,1
+1005,136286,Divakar Dasannagarir,0,0.0,0,0
+1005,104120,Aditya Polepeddi,0,0.0,0,0
+1005,144357,Lokesh Puppala,0,0.0,0,0
+1005,109383,Sanath Shanmugam,0,0.0,0,0
+1005,133022,Rajni Gautam,0,0.0,0,0
+1005,110555,Manasa Gidige,0,0.0,0,0
+1005,109658,Prithviraj R,0,0.0,0,0
+1005,117804,Prathika Akula,1,1.0,1,1
+1005,124246,Srikanth Pasikanti,1,1.0,1,1
+1005,112360,Vikram Addagulla,0,0.0,0,0
+1005,117030,Lakshman P R,0,0.0,0,0
+1005,100230,Kumar Nandan,0,0.0,0,0
+1005,119721,Vishal Gupta,0,0.0,0,0
+1005,117781,Alen Joses R,1,1.0,1,1
+1005,117933,Sumit Dora,1,1.0,1,1
+1005,104576,Subhasis Das,0,0.0,0,0
+1005,110456,Dharani Gayathri ,0,0.0,0,0
+1005,101534,Amit Deshpande,0,0.0,0,0
+1005,117431,George Fernandez,0,0.0,0,0
+1005,106890,Prasanth A J,0,1.0,1,1
+1005,145105,Deepthi Vodapalli,0,0.0,0,0
+1005,121406,Supriya Kulkarni,1,1.0,1,1
+1005,102301,Vishal Singh,0,0.0,0,0
+1005,113694,Deepak Kate,1,1.0,1,1
+1005,114361,Divyashri Bhilare,1,1.0,1,1
+1005,108576,Divyashri Bhilare,0,0.0,0,0
+1005,100365,Ida Victor ,1,1.0,1,1
+1007,119725,Ravi Teja,1,0.865494,1,1
+1007,114160,Anirban Pattanayak,1,0.0565499,0,0
+1007,123320,Teesta Naskar,1,0.728197,1,1
+1007,112200,Prashant Bhaskarwar,1,0.805666,1,1
+1007,136286,Divakar Dasannagarir,0,0.0382539,0,0
+1007,104120,Aditya Polepeddi,0,0.0438812,0,0
+1007,144357,Lokesh Puppala,0,0.0041212,0,0
+1007,109383,Sanath Shanmugam,0,0.00196165,0,0
+1007,133022,Rajni Gautam,0,0.00253794,0,0
+1007,110555,Manasa Gidige,0,0.00140126,0,0
+1007,107490,Manasa Gidige,1,0.887589,1,1
+1007,109658,Prithviraj R,0,0.0373112,0,0
+1007,117804,Prathika Akula,1,0.550955,1,0
+1007,124246,Srikanth Pasikanti,1,0.176148,0,0
+1007,112360,Vikram Addagulla,0,0.00308979,0,0
+1007,117030,Lakshman P R,0,0.090424,0,0
+1007,100230,Kumar Nandan,0,0.00280715,0,0
+1007,119721,Vishal Gupta,0,0.0103936,0,0
+1007,117781,Alen Joses R,1,0.0755274,0,0
+1007,117933,Sumit Dora,1,0.613545,1,0
+1007,104576,Subhasis Das,0,0.0328476,0,0
+1007,110456,Dharani Gayathri ,0,0.00953186,0,0
+1007,101534,Amit Deshpande,0,0.000662819,0,0
+1007,117431,George Fernandez,0,0.0986301,0,0
+1007,106890,Prasanth A J,0,0.885799,1,1
+1007,145105,Deepthi Vodapalli,0,0.00201298,0,0
+1007,121406,Supriya Kulkarni,1,0.91585,1,1
+1007,102301,Vishal Singh,0,0.00446164,0,0
+1007,113694,Deepak Kate,1,0.984143,1,1
+1007,114361,Divyashri Bhilare,1,0.918056,1,1
+1007,108576,Divyashri Bhilare,0,0.00459881,0,0
+1007,100365,Ida Victor ,1,0.533725,1,0
+1007,103805,Rajni Kadli,1,0.89211,1,1
+1007,102998,Aritra Ghosh,0,0.0318421,0,0
+1007,121900,Hema Dhapola ,1,0.999764,1,1
+1007,134126,Matber Ali,0,0.00135282,0,0
+1007,119115,Sumit Kumar Prasad,0,0.00634194,0,0
+1007,102397,Mohan Babu,0,0.00366208,0,0
+1007,109599,Lakshminarayanan  Krishanan ,0,0.00290249,0,0
+1007,112855,Rajashekar Agurla,0,0.0143505,0,0
+1007,101272,Saikiran D,0,0.00341411,0,0
+1007,113568,Kuheli Mukherjee,0,0.00449257,0,0
+1007,105027,Kuldeep Mishra,0,0.00262615,0,0
+1007,110559,Karthik R,0,0.00234176,0,0
+1007,116431,Dheeraj Babbar,0,0.328756,0,0
+1007,111864,Sneha Parkar,0,0.0067418,0,0
+1007,109241,Sitansu Swain,0,0.00180402,0,0
+1007,138635,Anand Dagare,1,0.868792,1,1
+1007,116010,Hari Prasad Ts,0,0.0447084,0,0
+1007,110213,Parul Jain,0,0.00413256,0,0
+1007,116407,Bhawna Negi,0,0.00202819,0,0
+1007,106100,Muthuraj Kalimuthu,0,0.00658795,0,0
+1007,123181,Ankit Gupta,1,0.538444,1,0
+1007,100405,Rahil Ghani,1,0.953315,1,1
+1007,105654,Anand Pavan Mandala,0,0.0117276,0,0
+1007,115282,Sumankumar  Madanu ,0,0.00313109,0,0
+1007,113851,Neelesh Thallam,1,0.953315,1,1
+1007,107726,Rutuja Kohale,0,0.0203572,0,0
+1007,100787,Deepu Kumar,0,0.00520954,0,0
+1007,112180,Nabila Mannan,0,0.00458253,0,0
+1007,118666,Sudarshan Maske,0,0.00691542,0,0
+1007,109852,Himaja Chanumolu,0,0.000725331,0,0
+1005,103805,Rajni Kadli,1,1.0,1,1
+1005,102998,Aritra Ghosh,0,0.0,0,0
+1005,121900,Hema Dhapola ,1,1.0,1,1
+1005,134126,Matber Ali,0,0.0,0,0
+1005,119115,Sumit Kumar Prasad,0,0.0,0,0
+1005,102397,Mohan Babu,0,0.0,0,0
+1005,109599,Lakshminarayanan  Krishanan ,0,0.0,0,0
+1005,112855,Rajashekar Agurla,0,0.0,0,0
+1005,113568,Kuheli Mukherjee,0,0.0,0,0
+1005,101272,Saikiran D,0,0.0,0,0
+1005,105027,Kuldeep Mishra,0,0.0,0,0
+1005,110559,Karthik R,0,0.0,0,0
+1005,116431,Dheeraj Babbar,0,0.0,0,0
+1005,111864,Sneha Parkar,0,0.0,0,0
+1005,109241,Sitansu Swain,0,0.0,0,0
+1005,138635,Anand Dagare,1,1.0,1,1
+1005,116010,Hari Prasad Ts,0,0.0,0,0
+1005,110213,Parul Jain,0,0.0,0,0
+1005,116407,Bhawna Negi,0,0.0,0,0
+1005,106100,Muthuraj Kalimuthu,0,0.0,0,0
+1005,123181,Ankit Gupta,1,1.0,1,1
+1005,115282,Sumankumar  Madanu ,0,0.0,0,0
+1005,113851,Neelesh Thallam,1,1.0,1,1
+1005,107726,Rutuja Kohale,0,0.0,0,0
+1005,100787,Deepu Kumar,0,1.0,1,1
+1005,112180,Nabila Mannan,0,0.0,0,0
+1005,118666,Sudarshan Maske,0,0.0,0,0
+1005,109852,Himaja Chanumolu,0,0.0,0,0
+1005,100646,Vikas Kumar,0,0.0,0,0
+1005,107811,Mani Bansal,0,0.0,0,0
+1005,100564,Ashok S,0,0.0,0,0
+1005,127312,Sai Krishna,1,1.0,1,1
+1005,103740,Venkat Kadam,0,0.0,0,0
+1005,105299,Vinod Karunakaran,0,0.0,0,0
+1005,106597,Kumar  P,0,0.0,0,0
+1005,100400,Praveen Aileni,1,1.0,1,1
+1005,103723,Kajal Kumar Roy,0,0.0,0,0
+1005,102113,Datta Gunjal,0,0.0,0,0
+1005,106141,Sachin Wable,1,1.0,1,1
+1005,115060,Nirmala S,1,1.0,1,1
+1005,113998,Jagadeesan T,0,0.0,0,0
+1005,104384,Keerthana Krishnamurthy,0,0.0,0,0
+1005,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1005,115767,Aamir Saif,1,1.0,1,1
+1005,119963,Pintu Kumar Saw,0,0.0,0,0
+1005,107449,Abhishek Kumar Singh,0,0.0,0,0
+1005,115834,Indrasena Manga,0,0.0,0,0
+1005,101173,Shivani Bharadwaj,0,0.0,0,0
+1005,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1005,118590,Adarsh  Kumar,0,0.0,0,0
+1005,109427,Ashok Nath,0,0.0,0,0
+1005,116409,Gunavant Jambu,0,1.0,1,1
+1005,115525,Waseema Masood,0,0.0,0,0
+1005,103297,Sachin Usapkar,1,1.0,1,1
+1012,119963,Pintu Kumar Saw,0,0.03,0,0
+1012,107449,Abhishek Kumar Singh,0,0.0,0,0
+1012,115767,Aamir Saif,1,0.99,1,1
+1012,114678,Yogeshkumar  Gupta ,0,0.01,0,0
+1012,104384,Keerthana Krishnamurthy,0,0.01,0,0
+1012,113998,Jagadeesan T,0,0.02,0,0
+1012,115060,Nirmala S,1,0.98,1,1
+1012,106141,Sachin Wable,1,0.97,1,1
+1012,102113,Datta Gunjal,0,0.07,0,0
+1012,103723,Kajal Kumar Roy,0,0.07,0,0
+1012,100400,Praveen Aileni,1,0.58,1,0
+1012,106597,Kumar  P,0,0.0,0,0
+1012,105299,Vinod Karunakaran,0,0.04,0,0
+1012,103740,Venkat Kadam,0,0.0,0,0
+1012,127312,Sai Krishna,1,0.99,1,1
+1012,100564,Ashok S,0,0.04,0,0
+1012,107811,Mani Bansal,0,0.01,0,0
+1012,100646,Vikas Kumar,0,0.0,0,0
+1012,109852,Himaja Chanumolu,0,0.0,0,0
+1012,118666,Sudarshan Maske,0,0.03,0,0
+1012,112180,Nabila Mannan,0,0.01,0,0
+1012,100787,Deepu Kumar,0,0.08,0,0
+1012,107726,Rutuja Kohale,0,0.03,0,0
+1012,113851,Neelesh Thallam,1,1.0,1,1
+1012,115282,Sumankumar  Madanu ,0,0.0,0,0
+1012,105654,Anand Pavan Mandala,0,0.01,0,0
+1012,100405,Rahil Ghani,1,0.98,1,1
+1012,123181,Ankit Gupta,1,0.6,1,0
+1012,106100,Muthuraj Kalimuthu,0,0.01,0,0
+1012,116407,Bhawna Negi,0,0.03,0,0
+1012,110213,Parul Jain,0,0.0,0,0
+1012,116010,Hari Prasad Ts,0,0.08,0,0
+1012,138635,Anand Dagare,1,1.0,1,1
+1012,109241,Sitansu Swain,0,0.0,0,0
+1012,111864,Sneha Parkar,0,0.01,0,0
+1012,116431,Dheeraj Babbar,0,0.12,0,0
+1012,110559,Karthik R,0,0.0,0,0
+1012,105027,Kuldeep Mishra,0,0.0,0,0
+1012,101272,Saikiran D,0,0.06,0,0
+1012,113568,Kuheli Mukherjee,0,0.01,0,0
+1012,112855,Rajashekar Agurla,0,0.11,0,0
+1012,109599,Lakshminarayanan  Krishanan ,0,0.0,0,0
+1012,102397,Mohan Babu,0,0.01,0,0
+1012,119115,Sumit Kumar Prasad,0,0.0,0,0
+1012,134126,Matber Ali,0,0.01,0,0
+1012,121900,Hema Dhapola ,1,0.97,1,1
+1012,102998,Aritra Ghosh,0,0.01,0,0
+1012,103805,Rajni Kadli,1,0.92,1,1
+1012,100365,Ida Victor ,1,0.64,1,0
+1012,108576,Divyashri Bhilare,0,0.01,0,0
+1012,114361,Divyashri Bhilare,1,0.98,1,1
+1012,113694,Deepak Kate,1,0.62,1,0
+1012,102301,Vishal Singh,0,0.0,0,0
+1012,121406,Supriya Kulkarni,1,0.96,1,1
+1012,145105,Deepthi Vodapalli,0,0.0,0,0
+1012,106890,Prasanth A J,0,0.97,1,1
+1012,117431,George Fernandez,0,0.08,0,0
+1012,101534,Amit Deshpande,0,0.02,0,0
+1012,110456,Dharani Gayathri ,0,0.0,0,0
+1012,104576,Subhasis Das,0,0.11,0,0
+1012,117933,Sumit Dora,1,0.68,1,0
+1012,117781,Alen Joses R,1,0.3,0,0
+1012,119721,Vishal Gupta,0,0.02,0,0
+1012,100230,Kumar Nandan,0,0.0,0,0
+1012,117030,Lakshman P R,0,0.14,0,0
+1012,112360,Vikram Addagulla,0,0.03,0,0
+1012,124246,Srikanth Pasikanti,1,0.65,1,0
+1012,117804,Prathika Akula,1,0.62,1,0
+1012,109658,Prithviraj R,0,0.13,0,0
+1012,107490,Manasa Gidige,1,0.95,1,1
+1012,110555,Manasa Gidige,0,0.0,0,0
+1012,133022,Rajni Gautam,0,0.01,0,0
+1012,109383,Sanath Shanmugam,0,0.0,0,0
+1012,144357,Lokesh Puppala,0,0.05,0,0
+1012,104120,Aditya Polepeddi,0,0.1,0,0
+1012,136286,Divakar Dasannagarir,0,0.03,0,0
+1012,112200,Prashant Bhaskarwar,1,0.93,1,1
+1012,123320,Teesta Naskar,1,0.88,1,1
+1012,114160,Anirban Pattanayak,1,0.18,0,0
+1012,119725,Ravi Teja,1,0.93,1,1
+1012,106053,Tanuja Sakpal,1,0.65,1,0
+1012,116666,Pankaj Kale,0,0.01,0,0
+1012,106422,Bhimarao Kamidi,0,0.0,0,0
+1012,107889,Hamla Ma,0,0.0,0,0
+1012,117622,Usamah Moin,0,0.01,0,0
+1012,108058,Swati Kurdekar,0,0.13,0,0
+1005,105922,Vikki Jakkulwar,0,0.0,0,0
+1005,103924,Savita Pandita,1,1.0,1,1
+1005,112223,Veer Vikram Singh,0,0.0,0,0
+1005,119045,Abhay Kumar,1,1.0,1,1
+1001,112223,Veer Vikram Singh,0,0.0,0,0
+1001,103924,Savita Pandita,1,1.0,1,1
+1001,105922,Vikki Jakkulwar,0,0.0,0,0
+1001,103297,Sachin Usapkar,1,0.176471,0,0
+1001,115525,Waseema Masood,0,0.0,0,0
+1001,116409,Gunavant Jambu,0,0.0,0,0
+1001,109427,Ashok Nath,0,0.0,0,0
+1001,118590,Adarsh  Kumar,0,0.0,0,0
+1001,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1001,101173,Shivani Bharadwaj,0,0.0588235,0,0
+1001,127419,Easwar Sudheer,1,1.0,1,1
+1001,109575,Nayana Arya,1,1.0,1,1
+1001,115834,Indrasena Manga,0,0.0,0,0
+1001,119963,Pintu Kumar Saw,0,0.294118,0,0
+1001,107449,Abhishek Kumar Singh,0,0.0,0,0
+1001,115767,Aamir Saif,1,1.0,1,1
+1001,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1001,104384,Keerthana Krishnamurthy,0,0.0588235,0,0
+1001,113998,Jagadeesan T,0,0.0,0,0
+1001,115060,Nirmala S,1,1.0,1,1
+1001,106141,Sachin Wable,1,1.0,1,1
+1001,102113,Datta Gunjal,0,0.0,0,0
+1001,103723,Kajal Kumar Roy,0,0.0,0,0
+1001,100400,Praveen Aileni,1,1.0,1,1
+1001,106597,Kumar  P,0,0.0,0,0
+1001,105299,Vinod Karunakaran,0,0.0,0,0
+1001,103740,Venkat Kadam,0,0.0,0,0
+1001,127312,Sai Krishna,1,0.941176,1,1
+1001,100564,Ashok S,0,0.0,0,0
+1001,107811,Mani Bansal,0,0.0,0,0
+1001,100646,Vikas Kumar,0,0.0,0,0
+1001,109852,Himaja Chanumolu,0,0.0,0,0
+1001,118666,Sudarshan Maske,0,0.0,0,0
+1001,112180,Nabila Mannan,0,0.0,0,0
+1001,100787,Deepu Kumar,0,0.0,0,0
+1001,107726,Rutuja Kohale,0,0.411765,0,0
+1001,113851,Neelesh Thallam,1,1.0,1,1
+1001,115282,Sumankumar  Madanu ,0,0.0,0,0
+1001,105654,Anand Pavan Mandala,0,0.0,0,0
+1001,100405,Rahil Ghani,1,1.0,1,1
+1001,123181,Ankit Gupta,1,0.117647,0,0
+1001,106100,Muthuraj Kalimuthu,0,0.176471,0,0
+1001,116407,Bhawna Negi,0,0.0588235,0,0
+1001,110213,Parul Jain,0,0.0,0,0
+1001,116010,Hari Prasad Ts,0,0.0,0,0
+1001,138635,Anand Dagare,1,1.0,1,1
+1001,109241,Sitansu Swain,0,0.0,0,0
+1001,111864,Sneha Parkar,0,0.0,0,0
+1001,116431,Dheeraj Babbar,0,0.0588235,0,0
+1001,110559,Karthik R,0,0.0,0,0
+1001,105027,Kuldeep Mishra,0,0.0,0,0
+1001,101272,Saikiran D,0,0.0,0,0
+1001,113568,Kuheli Mukherjee,0,0.0,0,0
+1001,112855,Rajashekar Agurla,0,0.0,0,0
+1001,109599,Lakshminarayanan  Krishanan ,0,0.0,0,0
+1001,102397,Mohan Babu,0,0.0,0,0
+1001,119115,Sumit Kumar Prasad,0,0.0,0,0
+1001,134126,Matber Ali,0,0.0,0,0
+1001,121900,Hema Dhapola ,1,1.0,1,1
+1001,102998,Aritra Ghosh,0,0.0,0,0
+1001,103805,Rajni Kadli,1,1.0,1,1
+1001,100365,Ida Victor ,1,0.0,0,0
+1001,108576,Divyashri Bhilare,0,0.0,0,0
+1001,114361,Divyashri Bhilare,1,1.0,1,1
+1001,113694,Deepak Kate,1,0.117647,0,0
+1001,102301,Vishal Singh,0,0.0,0,0
+1001,121406,Supriya Kulkarni,1,1.0,1,1
+1001,145105,Deepthi Vodapalli,0,0.0,0,0
+1001,106890,Prasanth A J,0,1.0,1,1
+1001,117431,George Fernandez,0,0.0588235,0,0
+1001,101534,Amit Deshpande,0,0.0,0,0
+1001,110456,Dharani Gayathri ,0,0.0,0,0
+1001,104576,Subhasis Das,0,0.0,0,0
+1001,117933,Sumit Dora,1,1.0,1,1
+1001,117781,Alen Joses R,1,0.529412,1,0
+1001,119721,Vishal Gupta,0,0.0,0,0
+1001,100230,Kumar Nandan,0,0.0,0,0
+1001,117030,Lakshman P R,0,0.0,0,0
+1001,112360,Vikram Addagulla,0,0.0,0,0
+1001,124246,Srikanth Pasikanti,1,0.529412,1,0
+1001,117804,Prathika Akula,1,1.0,1,1
+1001,109658,Prithviraj R,0,0.0,0,0
+1001,107490,Manasa Gidige,1,1.0,1,1
+1001,110555,Manasa Gidige,0,0.0,0,0
+1001,133022,Rajni Gautam,0,0.0,0,0
+1001,109383,Sanath Shanmugam,0,0.0,0,0
+1001,144357,Lokesh Puppala,0,0.0,0,0
+1001,104120,Aditya Polepeddi,0,0.0,0,0
+1001,136286,Divakar Dasannagarir,0,0.0,0,0
+1001,112200,Prashant Bhaskarwar,1,0.176471,0,0
+1001,123320,Teesta Naskar,1,1.0,1,1
+1001,114160,Anirban Pattanayak,1,0.0,0,0
+1001,119725,Ravi Teja,1,1.0,1,1
+1001,106053,Tanuja Sakpal,1,0.941176,1,1
+1001,116666,Pankaj Kale,0,0.0,0,0
+1001,106422,Bhimarao Kamidi,0,0.0,0,0
+1001,107889,Hamla Ma,0,0.0,0,0
+1001,117622,Usamah Moin,0,0.0,0,0
+1001,108058,Swati Kurdekar,0,0.0,0,0
+1016,114160,Anirban Pattanayak,1,0.118244,0,0
+1016,123320,Teesta Naskar,1,0.915049,1,1
+1016,112200,Prashant Bhaskarwar,1,0.987535,1,1
+1016,136286,Divakar Dasannagarir,0,0.118961,0,0
+1016,104120,Aditya Polepeddi,0,0.0745499,0,0
+1016,144357,Lokesh Puppala,0,0.0412273,0,0
+1016,109383,Sanath Shanmugam,0,5.8401e-05,0,0
+1016,117781,Alen Joses R,1,0.733843,1,1
+1016,133022,Rajni Gautam,0,0.0351722,0,0
+1016,110555,Manasa Gidige,0,0.0020115,0,0
+1016,107490,Manasa Gidige,1,0.988237,1,1
+1016,117933,Sumit Dora,1,0.87356,1,1
+1016,109658,Prithviraj R,0,0.773884,1,1
+1016,110456,Dharani Gayathri ,0,0.00278425,0,0
+1016,117804,Prathika Akula,1,0.611107,1,0
+1016,124246,Srikanth Pasikanti,1,0.994403,1,1
+1016,145105,Deepthi Vodapalli,0,7.72447e-05,0,0
+1016,106890,Prasanth A J,0,0.994209,1,1
+1016,117431,George Fernandez,0,0.00870311,0,0
+1016,112360,Vikram Addagulla,0,0.00577183,0,0
+1016,117030,Lakshman P R,0,0.00956158,0,0
+1016,100230,Kumar Nandan,0,0.000331661,0,0
+1016,119721,Vishal Gupta,0,0.0246605,0,0
+1016,102301,Vishal Singh,0,0.00474137,0,0
+1016,121406,Supriya Kulkarni,1,0.998016,1,1
+1016,100365,Ida Victor ,1,0.360505,0,0
+1016,108576,Divyashri Bhilare,0,0.103873,0,0
+1016,113568,Kuheli Mukherjee,0,0.000214816,0,0
+1016,112855,Rajashekar Agurla,0,0.126615,0,0
+1016,109599,Lakshminarayanan  Krishanan ,0,0.00385492,0,0
+1016,102397,Mohan Babu,0,0.00252625,0,0
+1016,119115,Sumit Kumar Prasad,0,0.0751708,0,0
+1016,134126,Matber Ali,0,0.000527303,0,0
+1016,121900,Hema Dhapola ,1,0.995239,1,1
+1016,102998,Aritra Ghosh,0,0.118244,0,0
+1016,105027,Kuldeep Mishra,0,0.0135563,0,0
+1016,116431,Dheeraj Babbar,0,0.0746859,0,0
+1016,116010,Hari Prasad Ts,0,0.00293429,0,0
+1016,123181,Ankit Gupta,1,0.958799,1,1
+1016,106100,Muthuraj Kalimuthu,0,0.0347255,0,0
+1016,116407,Bhawna Negi,0,0.0456728,0,0
+1016,113851,Neelesh Thallam,1,0.999166,1,1
+1016,115282,Sumankumar  Madanu ,0,0.0201527,0,0
+1016,105654,Anand Pavan Mandala,0,0.0105005,0,0
+1016,100787,Deepu Kumar,0,0.0869321,0,0
+1016,100564,Ashok S,0,0.000295358,0,0
+1016,107811,Mani Bansal,0,0.0228197,0,0
+1016,100646,Vikas Kumar,0,0.00358975,0,0
+1016,109852,Himaja Chanumolu,0,0.0137059,0,0
+1016,105299,Vinod Karunakaran,0,0.00272968,0,0
+1016,114678,Yogeshkumar  Gupta ,0,0.000634351,0,0
+1016,104384,Keerthana Krishnamurthy,0,0.00447253,0,0
+1016,113998,Jagadeesan T,0,0.000110639,0,0
+1016,115060,Nirmala S,1,0.995888,1,1
+1016,106141,Sachin Wable,1,0.990021,1,1
+1016,102113,Datta Gunjal,0,0.20265,0,0
+1016,103723,Kajal Kumar Roy,0,0.430556,0,0
+1016,101534,Amit Deshpande,0,0.00219683,0,0
+1016,113694,Deepak Kate,1,0.700917,1,1
+1016,114361,Divyashri Bhilare,1,0.997634,1,1
+1016,103805,Rajni Kadli,1,0.994821,1,1
+1016,101272,Saikiran D,0,0.00159983,0,0
+1016,110559,Karthik R,0,0.00394835,0,0
+1016,111864,Sneha Parkar,0,0.00368539,0,0
+1016,109241,Sitansu Swain,0,0.0552955,0,0
+1016,138635,Anand Dagare,1,0.994701,1,1
+1016,110213,Parul Jain,0,0.0200093,0,0
+1016,100405,Rahil Ghani,1,0.999788,1,1
+1016,107726,Rutuja Kohale,0,0.110179,0,0
+1016,112180,Nabila Mannan,0,0.00800483,0,0
+1016,118666,Sudarshan Maske,0,0.000517388,0,0
+1016,127312,Sai Krishna,1,0.993266,1,1
+1016,103740,Venkat Kadam,0,0.0419607,0,0
+1016,106597,Kumar  P,0,0.0182645,0,0
+1016,100400,Praveen Aileni,1,0.988759,1,1
+1017,119045,Abhay Kumar,1,0.975,1,1
+1017,112223,Veer Vikram Singh,0,0.1375,0,0
+1017,103924,Savita Pandita,1,0.9875,1,1
+1017,105922,Vikki Jakkulwar,0,0.0,0,0
+1017,103297,Sachin Usapkar,1,0.525,1,0
+1017,115525,Waseema Masood,0,0.0,0,0
+1017,116409,Gunavant Jambu,0,0.0125,0,0
+1017,109427,Ashok Nath,0,0.05,0,0
+1017,118590,Adarsh  Kumar,0,0.0,0,0
+1017,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1017,101173,Shivani Bharadwaj,0,0.075,0,0
+1017,127419,Easwar Sudheer,1,1.0,1,1
+1017,109575,Nayana Arya,1,1.0,1,1
+1017,115834,Indrasena Manga,0,0.0,0,0
+1017,119963,Pintu Kumar Saw,0,0.025,0,0
+1017,107449,Abhishek Kumar Singh,0,0.0,0,0
+1017,115767,Aamir Saif,1,1.0,1,1
+1017,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1017,104384,Keerthana Krishnamurthy,0,0.0125,0,0
+1017,113998,Jagadeesan T,0,0.0,0,0
+1017,115060,Nirmala S,1,1.0,1,1
+1017,106141,Sachin Wable,1,1.0,1,1
+1017,102113,Datta Gunjal,0,0.0,0,0
+1017,103723,Kajal Kumar Roy,0,0.025,0,0
+1017,100400,Praveen Aileni,1,0.1125,0,0
+1017,106597,Kumar  P,0,0.0,0,0
+1017,105299,Vinod Karunakaran,0,0.0125,0,0
+1017,103740,Venkat Kadam,0,0.0125,0,0
+1017,127312,Sai Krishna,1,1.0,1,1
+1017,100564,Ashok S,0,0.0,0,0
+1017,107811,Mani Bansal,0,0.0125,0,0
+1017,100646,Vikas Kumar,0,0.0,0,0
+1017,109852,Himaja Chanumolu,0,0.025,0,0
+1017,118666,Sudarshan Maske,0,0.0,0,0
+1017,112180,Nabila Mannan,0,0.0,0,0
+1017,100787,Deepu Kumar,0,0.4,0,0
+1017,107726,Rutuja Kohale,0,0.0375,0,0
+1017,113851,Neelesh Thallam,1,1.0,1,1
+1017,115282,Sumankumar  Madanu ,0,0.0125,0,0
+1017,105654,Anand Pavan Mandala,0,0.0,0,0
+1017,100405,Rahil Ghani,1,1.0,1,1
+1017,123181,Ankit Gupta,1,0.8,1,1
+1017,106100,Muthuraj Kalimuthu,0,0.025,0,0
+1017,116407,Bhawna Negi,0,0.1375,0,0
+1017,110213,Parul Jain,0,0.0,0,0
+1017,116010,Hari Prasad Ts,0,0.0375,0,0
+1017,138635,Anand Dagare,1,1.0,1,1
+1017,109241,Sitansu Swain,0,0.0,0,0
+1017,111864,Sneha Parkar,0,0.0,0,0
+1017,116431,Dheeraj Babbar,0,0.075,0,0
+1017,110559,Karthik R,0,0.0,0,0
+1017,105027,Kuldeep Mishra,0,0.0,0,0
+1017,101272,Saikiran D,0,0.0,0,0
+1017,113568,Kuheli Mukherjee,0,0.0,0,0
+1017,112855,Rajashekar Agurla,0,0.1375,0,0
+1017,109599,Lakshminarayanan  Krishanan ,0,0.0,0,0
+1017,102397,Mohan Babu,0,0.0,0,0
+1017,119115,Sumit Kumar Prasad,0,0.0,0,0
+1017,134126,Matber Ali,0,0.0,0,0
+1017,121900,Hema Dhapola ,1,1.0,1,1
+1017,102998,Aritra Ghosh,0,0.0,0,0
+1017,103805,Rajni Kadli,1,1.0,1,1
+1017,100365,Ida Victor ,1,0.1,0,0
+1017,108576,Divyashri Bhilare,0,0.0,0,0
+1017,114361,Divyashri Bhilare,1,1.0,1,1
+1017,113694,Deepak Kate,1,0.8,1,1
+1017,102301,Vishal Singh,0,0.0,0,0
+1017,121406,Supriya Kulkarni,1,0.9875,1,1
+1017,145105,Deepthi Vodapalli,0,0.0,0,0
+1017,106890,Prasanth A J,0,0.9875,1,1
+1017,117431,George Fernandez,0,0.075,0,0
+1017,101534,Amit Deshpande,0,0.0,0,0
+1017,110456,Dharani Gayathri ,0,0.0,0,0
+1017,104576,Subhasis Das,0,0.35,0,0
+1017,117933,Sumit Dora,1,0.075,0,0
+1017,117781,Alen Joses R,1,0.6625,1,0
+1017,119721,Vishal Gupta,0,0.025,0,0
+1017,100230,Kumar Nandan,0,0.0,0,0
+1017,117030,Lakshman P R,0,0.025,0,0
+1017,112360,Vikram Addagulla,0,0.0375,0,0
+1017,124246,Srikanth Pasikanti,1,0.8375,1,1
+1017,117804,Prathika Akula,1,0.05,0,0
+1017,109658,Prithviraj R,0,0.0375,0,0
+1017,107490,Manasa Gidige,1,1.0,1,1
+1017,110555,Manasa Gidige,0,0.0,0,0
+1017,133022,Rajni Gautam,0,0.0,0,0
+1017,109383,Sanath Shanmugam,0,0.0,0,0
+1017,144357,Lokesh Puppala,0,0.0375,0,0
+1017,104120,Aditya Polepeddi,0,0.0,0,0
+1017,136286,Divakar Dasannagarir,0,0.0,0,0
+1017,112200,Prashant Bhaskarwar,1,0.6625,1,0
+1017,123320,Teesta Naskar,1,0.95,1,1
+1017,114160,Anirban Pattanayak,1,0.0,0,0
+1017,119725,Ravi Teja,1,0.975,1,1
+1017,106053,Tanuja Sakpal,1,0.9,1,1
+1017,116666,Pankaj Kale,0,0.0,0,0
+1017,106422,Bhimarao Kamidi,0,0.0,0,0
+1017,107889,Hamla Ma,0,0.0,0,0
+1017,117622,Usamah Moin,0,0.0,0,0
+1017,108058,Swati Kurdekar,0,0.05,0,0
+1003,104576,Subhasis Das,0,0.25,0,0
+1003,117933,Sumit Dora,1,0.99,1,1
+1003,117781,Alen Joses R,1,0.65,1,0
+1003,119721,Vishal Gupta,0,0.055,0,0
+1003,100230,Kumar Nandan,0,0.0,0,0
+1003,117030,Lakshman P R,0,0.16,0,0
+1003,112360,Vikram Addagulla,0,0.015,0,0
+1003,124246,Srikanth Pasikanti,1,0.8,1,1
+1003,117804,Prathika Akula,1,1.0,1,1
+1003,109658,Prithviraj R,0,0.045,0,0
+1003,107490,Manasa Gidige,1,0.905,1,1
+1003,110555,Manasa Gidige,0,0.0,0,0
+1003,133022,Rajni Gautam,0,0.0,0,0
+1003,109383,Sanath Shanmugam,0,0.0,0,0
+1003,144357,Lokesh Puppala,0,0.06,0,0
+1003,104120,Aditya Polepeddi,0,0.09,0,0
+1003,136286,Divakar Dasannagarir,0,0.03,0,0
+1003,112200,Prashant Bhaskarwar,1,0.935,1,1
+1003,123320,Teesta Naskar,1,0.955,1,1
+1003,114160,Anirban Pattanayak,1,0.0,0,0
+1003,119725,Ravi Teja,1,0.985,1,1
+1003,106053,Tanuja Sakpal,1,0.845,1,1
+1003,116666,Pankaj Kale,0,0.0,0,0
+1003,106422,Bhimarao Kamidi,0,0.0,0,0
+1003,107889,Hamla Ma,0,0.0,0,0
+1003,117622,Usamah Moin,0,0.0,0,0
+1003,108058,Swati Kurdekar,0,0.1,0,0
+1014,119045,Abhay Kumar,1,1.0,1,1
+1014,112223,Veer Vikram Singh,0,8e-05,0,0
+1014,103924,Savita Pandita,1,0.99999,1,1
+1014,105922,Vikki Jakkulwar,0,0.0,0,0
+1014,103297,Sachin Usapkar,1,0.99988,1,1
+1014,115525,Waseema Masood,0,0.0,0,0
+1014,116409,Gunavant Jambu,0,0.03061,0,0
+1014,109427,Ashok Nath,0,0.0,0,0
+1014,118590,Adarsh  Kumar,0,0.0,0,0
+1014,107075,Gaurav Singh Bhadauria,0,0.0,0,0
+1014,101173,Shivani Bharadwaj,0,0.0,0,0
+1014,127419,Easwar Sudheer,1,1.0,1,1
+1014,109575,Nayana Arya,1,1.0,1,1
+1014,115834,Indrasena Manga,0,0.0,0,0
+1014,119963,Pintu Kumar Saw,0,0.0,0,0
+1014,107449,Abhishek Kumar Singh,0,0.0,0,0
+1014,115767,Aamir Saif,1,1.0,1,1
+1014,114678,Yogeshkumar  Gupta ,0,0.0,0,0
+1014,104384,Keerthana Krishnamurthy,0,0.0,0,0
+1014,113998,Jagadeesan T,0,0.0,0,0
+1014,115060,Nirmala S,1,1.0,1,1
+1014,106141,Sachin Wable,1,1.0,1,1
+1014,102113,Datta Gunjal,0,0.00017,0,0
+1014,103723,Kajal Kumar Roy,0,0.0,0,0
+1014,100400,Praveen Aileni,1,0.99998,1,1
+1014,106597,Kumar  P,0,0.0,0,0
+1014,105299,Vinod Karunakaran,0,0.0,0,0
+1014,103740,Venkat Kadam,0,0.0,0,0
+1014,127312,Sai Krishna,1,0.99999,1,1
+1014,100564,Ashok S,0,0.0,0,0
+1014,107811,Mani Bansal,0,0.0,0,0
+1014,100646,Vikas Kumar,0,1e-05,0,0
+1014,109852,Himaja Chanumolu,0,0.0,0,0
+1014,118666,Sudarshan Maske,0,0.0,0,0
+1014,112180,Nabila Mannan,0,0.0,0,0
+1014,100787,Deepu Kumar,0,0.09742,0,0
+1014,107726,Rutuja Kohale,0,8e-05,0,0
+1014,113851,Neelesh Thallam,1,1.0,1,1
+1014,115282,Sumankumar  Madanu ,0,1e-05,0,0
+1014,105654,Anand Pavan Mandala,0,0.0,0,0
+1014,100405,Rahil Ghani,1,1.0,1,1
+1014,123181,Ankit Gupta,1,0.9999,1,1
+1014,106100,Muthuraj Kalimuthu,0,0.00066,0,0
+1014,116407,Bhawna Negi,0,0.00048,0,0
+1014,110213,Parul Jain,0,0.0,0,0
+1014,116010,Hari Prasad Ts,0,3e-05,0,0
+1014,138635,Anand Dagare,1,1.0,1,1
+1014,109241,Sitansu Swain,0,0.0,0,0
+1014,111864,Sneha Parkar,0,0.0,0,0
+1014,116431,Dheeraj Babbar,0,0.0,0,0
+1014,110559,Karthik R,0,0.0,0,0
+1014,105027,Kuldeep Mishra,0,0.0,0,0
+1014,101272,Saikiran D,0,0.0,0,0
+1014,113568,Kuheli Mukherjee,0,0.0,0,0
+1014,112855,Rajashekar Agurla,0,0.0,0,0
+1014,109599,Lakshminarayanan  Krishanan ,0,1e-05,0,0
+1014,102397,Mohan Babu,0,1e-05,0,0
+1014,119115,Sumit Kumar Prasad,0,0.0,0,0
+1014,134126,Matber Ali,0,0.0,0,0
+1014,121900,Hema Dhapola ,1,0.99999,1,1
+1014,102998,Aritra Ghosh,0,2e-05,0,0
+1014,103805,Rajni Kadli,1,1.0,1,1
+1014,100365,Ida Victor ,1,0.99997,1,1
+1014,108576,Divyashri Bhilare,0,0.0,0,0
+1014,114361,Divyashri Bhilare,1,1.0,1,1
+1014,113694,Deepak Kate,1,0.99909,1,1
+1014,102301,Vishal Singh,0,0.0,0,0
+1014,121406,Supriya Kulkarni,1,1.0,1,1
+1014,145105,Deepthi Vodapalli,0,0.0,0,0
+1014,106890,Prasanth A J,0,1.0,1,1
+1014,117431,George Fernandez,0,0.0,0,0
+1014,101534,Amit Deshpande,0,0.0,0,0
+1014,110456,Dharani Gayathri ,0,1e-05,0,0
+1014,104576,Subhasis Das,0,0.00376,0,0
+1014,117933,Sumit Dora,1,0.99992,1,1
+1014,117781,Alen Joses R,1,0.9951,1,1
+1014,119721,Vishal Gupta,0,2e-05,0,0
+1014,100230,Kumar Nandan,0,0.0,0,0
+1014,117030,Lakshman P R,0,0.00045,0,0
+1014,112360,Vikram Addagulla,0,0.0,0,0
+1014,124246,Srikanth Pasikanti,1,0.99996,1,1
+1014,117804,Prathika Akula,1,0.99998,1,1
+1014,109658,Prithviraj R,0,1e-05,0,0
+1014,107490,Manasa Gidige,1,1.0,1,1
+1014,110555,Manasa Gidige,0,0.0,0,0
+1014,133022,Rajni Gautam,0,1e-05,0,0
+1014,109383,Sanath Shanmugam,0,0.0,0,0
+1014,144357,Lokesh Puppala,0,0.32661,0,0
+1014,104120,Aditya Polepeddi,0,0.00025,0,0
+1014,136286,Divakar Dasannagarir,0,1e-05,0,0
+1014,112200,Prashant Bhaskarwar,1,1.0,1,1
+1014,123320,Teesta Naskar,1,1.0,1,1
+1014,114160,Anirban Pattanayak,1,0.95819,1,1
+1014,119725,Ravi Teja,1,1.0,1,1
+1014,106053,Tanuja Sakpal,1,1.0,1,1
+1014,116666,Pankaj Kale,0,0.0,0,0
+1014,106422,Bhimarao Kamidi,0,0.0,0,0
+1014,107889,Hamla Ma,0,0.0,0,0
+1014,117622,Usamah Moin,0,0.0,0,0
+1014,108058,Swati Kurdekar,0,0.0004,0,0
+1016,115767,Aamir Saif,1,0.976715,1,1
+1016,119963,Pintu Kumar Saw,0,0.198143,0,0
+1016,127419,Easwar Sudheer,1,0.999425,1,1
+1016,101173,Shivani Bharadwaj,0,0.000161451,0,0
+1016,107075,Gaurav Singh Bhadauria,0,0.00463793,0,0
+1016,118590,Adarsh  Kumar,0,0.0162153,0,0
+1016,115525,Waseema Masood,0,0.0318833,0,0
+1016,103924,Savita Pandita,1,0.978543,1,1
+1016,112223,Veer Vikram Singh,0,0.44785,0,0
+1016,119045,Abhay Kumar,1,0.995037,1,1
+1016,104576,Subhasis Das,0,0.433187,0,0
+1016,107449,Abhishek Kumar Singh,0,0.000309492,0,0
+1016,115834,Indrasena Manga,0,0.00168687,0,0
+1016,109575,Nayana Arya,1,0.765836,1,1
+1016,109427,Ashok Nath,0,0.153351,0,0
+1016,116409,Gunavant Jambu,0,0.107722,0,0
+1016,103297,Sachin Usapkar,1,0.00885975,0,0
+1016,105922,Vikki Jakkulwar,0,0.0160442,0,0
+1016,119725,Ravi Teja,1,0.98607,1,1
+1016,106053,Tanuja Sakpal,1,0.99642,1,1
+1016,116666,Pankaj Kale,0,0.000824243,0,0
+1016,106422,Bhimarao Kamidi,0,0.00370772,0,0
+1016,107889,Hamla Ma,0,0.00125561,0,0
+1016,117622,Usamah Moin,0,0.0146183,0,0
+1016,108058,Swati Kurdekar,0,0.266943,0,0
+1007,100646,Vikas Kumar,0,0.0057694,0,0
+1007,100564,Ashok S,0,0.0791827,0,0
+1007,107811,Mani Bansal,0,0.00393212,0,0
+1007,127312,Sai Krishna,1,0.999731,1,1
+1007,103740,Venkat Kadam,0,0.000986197,0,0
+1007,105299,Vinod Karunakaran,0,0.189225,0,0
+1007,106597,Kumar  P,0,0.00404128,0,0
+1007,103723,Kajal Kumar Roy,0,0.0271483,0,0
+1007,100400,Praveen Aileni,1,0.613545,1,0
+1007,113998,Jagadeesan T,0,0.0607626,0,0
+1007,115060,Nirmala S,1,0.732772,1,1
+1007,102113,Datta Gunjal,0,0.070918,0,0
+1007,106141,Sachin Wable,1,0.908652,1,1
+1007,104384,Keerthana Krishnamurthy,0,0.00767573,0,0
+1007,114678,Yogeshkumar  Gupta ,0,0.00614992,0,0
+1007,115767,Aamir Saif,1,0.928697,1,1
+1007,107449,Abhishek Kumar Singh,0,0.00375955,0,0
+1007,119963,Pintu Kumar Saw,0,0.00540178,0,0
+1007,115834,Indrasena Manga,0,0.0119759,0,0
+1007,109575,Nayana Arya,1,0.400411,0,0
+1007,127419,Easwar Sudheer,1,0.971725,1,1
+1007,101173,Shivani Bharadwaj,0,0.011671,0,0
+1007,107075,Gaurav Singh Bhadauria,0,0.00389429,0,0
+1019,105922,Vikki Jakkulwar,0,0.017345,0,0
+1019,103924,Savita Pandita,1,1.0,1,1
+1019,112223,Veer Vikram Singh,0,0.183333,0,0
+1019,119045,Abhay Kumar,1,0.99998,1,1
+1018,108058,Swati Kurdekar,0,0.27867,0,0
+1018,117622,Usamah Moin,0,0.27867,0,0
+1018,107889,Hamla Ma,0,0.27867,0,0
+1018,106422,Bhimarao Kamidi,0,0.27867,0,0
+1018,116666,Pankaj Kale,0,0.27867,0,0
+1018,106053,Tanuja Sakpal,1,0.27867,0,0
+1018,119725,Ravi Teja,1,0.27867,0,0
+1018,114160,Anirban Pattanayak,1,0.27867,0,0
+1018,123320,Teesta Naskar,1,0.27867,0,0
+1018,112200,Prashant Bhaskarwar,1,0.27867,0,0
+1018,136286,Divakar Dasannagarir,0,0.27867,0,0
+1018,104120,Aditya Polepeddi,0,0.27867,0,0
+1018,144357,Lokesh Puppala,0,0.27867,0,0
+1018,109383,Sanath Shanmugam,0,0.27867,0,0
+1018,133022,Rajni Gautam,0,0.27867,0,0
+1018,110555,Manasa Gidige,0,0.27867,0,0
+1018,107490,Manasa Gidige,1,0.27867,0,0
+1018,109658,Prithviraj R,0,0.27867,0,0
+1018,117804,Prathika Akula,1,0.27867,0,0
+1018,124246,Srikanth Pasikanti,1,0.27867,0,0
+1018,112360,Vikram Addagulla,0,0.27867,0,0
+1018,117030,Lakshman P R,0,0.27867,0,0
+1018,100230,Kumar Nandan,0,0.27867,0,0
+1018,119721,Vishal Gupta,0,0.27867,0,0
+1018,117781,Alen Joses R,1,0.27867,0,0
+1018,117933,Sumit Dora,1,0.27867,0,0
+1018,104576,Subhasis Das,0,0.27867,0,0
+1018,110456,Dharani Gayathri ,0,0.27867,0,0
+1018,101534,Amit Deshpande,0,0.941818,1,1
+1018,117431,George Fernandez,0,0.941818,1,1
+1018,106890,Prasanth A J,0,0.27867,0,0
+1018,145105,Deepthi Vodapalli,0,0.27867,0,0
+1018,121406,Supriya Kulkarni,1,0.27867,0,0
+1018,102301,Vishal Singh,0,0.27867,0,0
+1018,113694,Deepak Kate,1,0.27867,0,0
+1018,114361,Divyashri Bhilare,1,0.27867,0,0
+1018,108576,Divyashri Bhilare,0,0.27867,0,0
+1018,100365,Ida Victor ,1,0.27867,0,0
+1018,103805,Rajni Kadli,1,0.941818,1,1
+1018,102998,Aritra Ghosh,0,0.27867,0,0
+1018,121900,Hema Dhapola ,1,0.27867,0,0
+1018,134126,Matber Ali,0,0.27867,0,0
+1018,119115,Sumit Kumar Prasad,0,0.27867,0,0
+1018,102397,Mohan Babu,0,0.27867,0,0
+1018,109599,Lakshminarayanan  Krishanan ,0,0.27867,0,0
+1018,112855,Rajashekar Agurla,0,0.27867,0,0
+1018,113568,Kuheli Mukherjee,0,0.27867,0,0
+1018,101272,Saikiran D,0,0.27867,0,0
+1018,105027,Kuldeep Mishra,0,0.27867,0,0
+1018,110559,Karthik R,0,0.27867,0,0
+1018,116431,Dheeraj Babbar,0,0.27867,0,0
+1018,111864,Sneha Parkar,0,0.27867,0,0
+1018,109241,Sitansu Swain,0,0.27867,0,0
+1018,138635,Anand Dagare,1,0.27867,0,0
+1018,116010,Hari Prasad Ts,0,0.27867,0,0
+1018,110213,Parul Jain,0,0.27867,0,0
+1018,116407,Bhawna Negi,0,0.27867,0,0
+1018,106100,Muthuraj Kalimuthu,0,0.27867,0,0
+1018,123181,Ankit Gupta,1,0.27867,0,0
+1018,100405,Rahil Ghani,1,0.27867,0,0
+1018,105654,Anand Pavan Mandala,0,0.27867,0,0
+1018,115282,Sumankumar  Madanu ,0,0.27867,0,0
+1018,113851,Neelesh Thallam,1,0.27867,0,0
+1018,107726,Rutuja Kohale,0,0.27867,0,0
+1018,100787,Deepu Kumar,0,0.27867,0,0
+1018,112180,Nabila Mannan,0,0.27867,0,0
+1018,118666,Sudarshan Maske,0,0.27867,0,0
+1018,109852,Himaja Chanumolu,0,0.27867,0,0
+1018,100646,Vikas Kumar,0,0.27867,0,0
+1018,107811,Mani Bansal,0,0.27867,0,0
+1018,100564,Ashok S,0,0.27867,0,0
+1018,127312,Sai Krishna,1,0.27867,0,0
+1018,103740,Venkat Kadam,0,0.27867,0,0
+1018,105299,Vinod Karunakaran,0,0.27867,0,0
+1018,106597,Kumar  P,0,0.27867,0,0
+1018,100400,Praveen Aileni,1,0.27867,0,0
+1018,103723,Kajal Kumar Roy,0,0.27867,0,0
+1018,102113,Datta Gunjal,0,0.27867,0,0
+1018,106141,Sachin Wable,1,0.27867,0,0
+1018,115060,Nirmala S,1,0.27867,0,0
+1018,113998,Jagadeesan T,0,0.27867,0,0
+1018,104384,Keerthana Krishnamurthy,0,0.27867,0,0
+1018,114678,Yogeshkumar  Gupta ,0,0.27867,0,0
+1018,115767,Aamir Saif,1,0.27867,0,0
+1018,107449,Abhishek Kumar Singh,0,0.27867,0,0
+1018,119963,Pintu Kumar Saw,0,0.27867,0,0
+1018,115834,Indrasena Manga,0,0.27867,0,0
+1018,109575,Nayana Arya,1,0.27867,0,0
+1018,127419,Easwar Sudheer,1,0.27867,0,0
+1018,101173,Shivani Bharadwaj,0,0.941818,1,1
+1018,107075,Gaurav Singh Bhadauria,0,0.27867,0,0
+1018,118590,Adarsh  Kumar,0,0.27867,0,0
+1018,109427,Ashok Nath,0,0.27867,0,0
+1018,116409,Gunavant Jambu,0,0.27867,0,0
+1007,115525,Waseema Masood,0,0.00388622,0,0
+1007,105922,Vikki Jakkulwar,0,0.00382722,0,0
+1007,103924,Savita Pandita,1,0.579643,1,0
+1007,112223,Veer Vikram Singh,0,0.00182613,0,0
+1007,119045,Abhay Kumar,1,0.928697,1,1
+1007,118590,Adarsh  Kumar,0,0.00865213,0,0
+1007,109427,Ashok Nath,0,0.0263751,0,0
+1007,116409,Gunavant Jambu,0,0.0127663,0,0
+1007,103297,Sachin Usapkar,1,0.0591742,0,0
+1007,106053,Tanuja Sakpal,1,0.552103,1,0
+1007,116666,Pankaj Kale,0,0.0155989,0,0
+1007,106422,Bhimarao Kamidi,0,0.0060141,0,0
+1007,107889,Hamla Ma,0,0.00430073,0,0
+1007,117622,Usamah Moin,0,0.00977217,0,0
+1007,108058,Swati Kurdekar,0,0.483834,0,0
+1018,115525,Waseema Masood,0,0.27867,0,0
+1018,103297,Sachin Usapkar,1,0.941818,1,1
+1018,105922,Vikki Jakkulwar,0,0.27867,0,0
+1018,103924,Savita Pandita,1,0.27867,0,0
+1018,112223,Veer Vikram Singh,0,0.27867,0,0
+1018,119045,Abhay Kumar,1,0.27867,0,0
+1019,103297,Sachin Usapkar,1,0.775,1,1
+1019,115525,Waseema Masood,0,0.00853109,0,0
+1019,116409,Gunavant Jambu,0,0.0916667,0,0
+1019,109427,Ashok Nath,0,0.0416667,0,0
+1019,118590,Adarsh  Kumar,0,0.00833333,0,0
+1019,107075,Gaurav Singh Bhadauria,0,0.00833333,0,0
+1019,101173,Shivani Bharadwaj,0,0.1,0,0
+1019,127419,Easwar Sudheer,1,0.999987,1,1
+1019,109575,Nayana Arya,1,1.0,1,1
+1019,115834,Indrasena Manga,0,0.000132275,0,0
+1019,119963,Pintu Kumar Saw,0,0.0699427,0,0
+1019,107449,Abhishek Kumar Singh,0,0.0166667,0,0
+1019,115767,Aamir Saif,1,1.0,1,1
+1019,114678,Yogeshkumar  Gupta ,0,0.0416667,0,0
+1019,104384,Keerthana Krishnamurthy,0,0.00046716,0,0
+1019,113998,Jagadeesan T,0,0.0416667,0,0
+1019,115060,Nirmala S,1,0.999691,1,1
+1019,106141,Sachin Wable,1,0.999917,1,1
+1019,102113,Datta Gunjal,0,0.025,0,0
+1019,103723,Kajal Kumar Roy,0,0.0833333,0,0
+1019,100400,Praveen Aileni,1,0.625,1,0
+1019,106597,Kumar  P,0,0.0178815,0,0
+1019,105299,Vinod Karunakaran,0,0.0,0,0
+1019,103740,Venkat Kadam,0,0.0307301,0,0
+1019,127312,Sai Krishna,1,0.998862,1,1
+1019,100564,Ashok S,0,0.091129,0,0
+1019,107811,Mani Bansal,0,0.0333333,0,0
+1019,100646,Vikas Kumar,0,0.00833333,0,0
+1019,109852,Himaja Chanumolu,0,0.0333688,0,0
+1019,118666,Sudarshan Maske,0,0.00833333,0,0
+1019,112180,Nabila Mannan,0,0.0,0,0
+1019,100787,Deepu Kumar,0,0.240053,0,0
+1019,107726,Rutuja Kohale,0,0.133333,0,0
+1019,113851,Neelesh Thallam,1,0.999987,1,1
+1019,115282,Sumankumar  Madanu ,0,0.0419396,0,0
+1019,105654,Anand Pavan Mandala,0,0.05,0,0
+1019,100405,Rahil Ghani,1,1.0,1,1
+1019,123181,Ankit Gupta,1,0.929042,1,1
+1019,106100,Muthuraj Kalimuthu,0,0.0357143,0,0
+1019,116407,Bhawna Negi,0,0.166667,0,0
+1019,110213,Parul Jain,0,0.0,0,0
+1019,116010,Hari Prasad Ts,0,0.0833333,0,0
+1019,138635,Anand Dagare,1,0.99998,1,1
+1019,109241,Sitansu Swain,0,0.035564,0,0
+1019,111864,Sneha Parkar,0,0.00833333,0,0
+1019,116431,Dheeraj Babbar,0,0.0194444,0,0
+1019,110559,Karthik R,0,0.0,0,0
+1019,105027,Kuldeep Mishra,0,0.00857843,0,0
+1019,101272,Saikiran D,0,0.1,0,0
+1019,113568,Kuheli Mukherjee,0,0.0166667,0,0
+1019,112855,Rajashekar Agurla,0,0.0666667,0,0
+1019,109599,Lakshminarayanan  Krishanan ,0,0.0180556,0,0
+1019,102397,Mohan Babu,0,0.0166667,0,0
+1019,119115,Sumit Kumar Prasad,0,0.0,0,0
+1019,134126,Matber Ali,0,0.00852273,0,0
+1019,121900,Hema Dhapola ,1,0.981829,1,1
+1019,102998,Aritra Ghosh,0,0.05,0,0
+1019,103805,Rajni Kadli,1,0.983333,1,1
+1019,100365,Ida Victor ,1,0.841358,1,1
+1019,108576,Divyashri Bhilare,0,0.0176348,0,0
+1019,114361,Divyashri Bhilare,1,1.0,1,1
+1019,113694,Deepak Kate,1,0.808333,1,1
+1019,102301,Vishal Singh,0,0.0,0,0
+1019,121406,Supriya Kulkarni,1,1.0,1,1
+1019,145105,Deepthi Vodapalli,0,0.0,0,0
+1019,106890,Prasanth A J,0,0.991667,1,1
+1019,117431,George Fernandez,0,0.0833333,0,0
+1019,101534,Amit Deshpande,0,0.00833333,0,0
+1019,110456,Dharani Gayathri ,0,7.93651e-05,0,0
+1019,104576,Subhasis Das,0,0.28,0,0
+1019,117933,Sumit Dora,1,0.833256,1,1
+1019,117781,Alen Joses R,1,0.608333,1,0
+1019,119721,Vishal Gupta,0,0.0544894,0,0
+1019,100230,Kumar Nandan,0,0.00241641,0,0
+1019,117030,Lakshman P R,0,0.0666667,0,0
+1019,112360,Vikram Addagulla,0,0.0648383,0,0
+1019,124246,Srikanth Pasikanti,1,0.5,1,0
+1019,117804,Prathika Akula,1,0.833114,1,1
+1019,109658,Prithviraj R,0,0.0666667,0,0
+1019,107490,Manasa Gidige,1,0.991667,1,1
+1019,110555,Manasa Gidige,0,0.0,0,0
+1019,133022,Rajni Gautam,0,0.000257952,0,0
+1019,109383,Sanath Shanmugam,0,0.0,0,0
+1019,144357,Lokesh Puppala,0,0.0510417,0,0
+1019,104120,Aditya Polepeddi,0,0.0333333,0,0
+1019,136286,Divakar Dasannagarir,0,0.0166667,0,0
+1019,112200,Prashant Bhaskarwar,1,0.966667,1,1
+1019,123320,Teesta Naskar,1,0.975,1,1
+1019,114160,Anirban Pattanayak,1,0.05,0,0
+1019,119725,Ravi Teja,1,0.991667,1,1
+1019,106053,Tanuja Sakpal,1,0.8,1,1
+1019,116666,Pankaj Kale,0,0.000268817,0,0
+1019,106422,Bhimarao Kamidi,0,0.0,0,0
+1019,107889,Hamla Ma,0,0.0,0,0
+1019,117622,Usamah Moin,0,0.00836443,0,0
+1019,108058,Swati Kurdekar,0,0.0761775,0,0
+1006,113694,Deepak Kate,1,0.608871,1,0
+1006,102301,Vishal Singh,0,0.0918992,0,0
+1006,121406,Supriya Kulkarni,1,0.897916,1,1
+1006,145105,Deepthi Vodapalli,0,0.0542934,0,0
+1006,106890,Prasanth A J,0,0.717556,1,1
+1006,117431,George Fernandez,0,0.256721,0,0
+1006,101534,Amit Deshpande,0,0.0536365,0,0
+1006,110456,Dharani Gayathri ,0,0.0428481,0,0
+1006,104576,Subhasis Das,0,0.272906,0,0
+1006,117933,Sumit Dora,1,0.869304,1,1
+1006,117781,Alen Joses R,1,0.394836,0,0
+1006,119721,Vishal Gupta,0,0.141326,0,0
+1006,100230,Kumar Nandan,0,0.0625795,0,0
+1006,117030,Lakshman P R,0,0.244046,0,0
+1006,112360,Vikram Addagulla,0,0.137224,0,0
+1006,124246,Srikanth Pasikanti,1,0.685665,1,0
+1006,117804,Prathika Akula,1,0.886204,1,1
+1006,109658,Prithviraj R,0,0.340084,0,0
+1006,107490,Manasa Gidige,1,0.662066,1,0
+1006,110555,Manasa Gidige,0,0.15111,0,0
+1006,133022,Rajni Gautam,0,0.207759,0,0
+1006,109383,Sanath Shanmugam,0,0.043059,0,0
+1006,144357,Lokesh Puppala,0,0.0657109,0,0
+1006,104120,Aditya Polepeddi,0,0.353949,0,0
+1006,136286,Divakar Dasannagarir,0,0.244322,0,0
+1006,112200,Prashant Bhaskarwar,1,0.827786,1,1
+1006,123320,Teesta Naskar,1,0.957742,1,1
+1006,114160,Anirban Pattanayak,1,0.263753,0,0
+1006,119725,Ravi Teja,1,0.734777,1,1
+1006,106053,Tanuja Sakpal,1,0.649063,1,0
+1006,116666,Pankaj Kale,0,0.102638,0,0
+1006,106422,Bhimarao Kamidi,0,0.0432466,0,0
+1006,107889,Hamla Ma,0,0.0685815,0,0
+1006,117622,Usamah Moin,0,0.126021,0,0
+1006,108058,Swati Kurdekar,0,0.305318,0,0
+1008,117781,Alen Joses R,1,0.747972,1,1
+1008,105922,Vikki Jakkulwar,0,0.00149061,0,0
+1008,107889,Hamla Ma,0,0.000602714,0,0
+1008,106422,Bhimarao Kamidi,0,0.000634141,0,0
+1008,116666,Pankaj Kale,0,0.00159255,0,0
+1008,106053,Tanuja Sakpal,1,0.840722,1,1
+1008,123320,Teesta Naskar,1,0.954605,1,1
+1008,114160,Anirban Pattanayak,1,0.0693235,0,0
+1008,119725,Ravi Teja,1,0.991867,1,1
+1008,112200,Prashant Bhaskarwar,1,0.981956,1,1
+1008,136286,Divakar Dasannagarir,0,0.00695195,0,0
+1008,104120,Aditya Polepeddi,0,0.0218617,0,0
+1008,144357,Lokesh Puppala,0,0.00640812,0,0
+1008,109383,Sanath Shanmugam,0,9.77272e-05,0,0
+1008,133022,Rajni Gautam,0,0.00573391,0,0
+1008,110555,Manasa Gidige,0,0.00236429,0,0
+1008,107490,Manasa Gidige,1,0.979059,1,1
+1008,109658,Prithviraj R,0,0.0143642,0,0
+1008,117804,Prathika Akula,1,0.987218,1,1
+1008,124246,Srikanth Pasikanti,1,0.979402,1,1
+1008,112360,Vikram Addagulla,0,0.000763762,0,0
+1008,117030,Lakshman P R,0,0.0098547,0,0
+1008,100230,Kumar Nandan,0,0.00185168,0,0
+1008,119721,Vishal Gupta,0,0.0114381,0,0
+1008,106100,Muthuraj Kalimuthu,0,0.002612,0,0
+1008,116407,Bhawna Negi,0,0.0222668,0,0
+1008,117933,Sumit Dora,1,0.91602,1,1
+1008,104576,Subhasis Das,0,0.0552086,0,0
+1008,110456,Dharani Gayathri ,0,0.00232296,0,0
+1008,101534,Amit Deshpande,0,0.00249649,0,0
+1008,105654,Anand Pavan Mandala,0,0.0106678,0,0
+1008,100405,Rahil Ghani,1,0.999734,1,1
+1008,117431,George Fernandez,0,0.00917624,0,0
+1008,106890,Prasanth A J,0,0.990465,1,1
+1008,145105,Deepthi Vodapalli,0,0.0001077,0,0
+1008,121406,Supriya Kulkarni,1,0.983491,1,1
+1008,102301,Vishal Singh,0,0.00777046,0,0
+1008,113694,Deepak Kate,1,0.921153,1,1
+1008,113851,Neelesh Thallam,1,0.99835,1,1
+1008,114361,Divyashri Bhilare,1,0.997982,1,1
+1008,108576,Divyashri Bhilare,0,0.0067858,0,0
+1008,100365,Ida Victor ,1,0.993627,1,1
+1008,103805,Rajni Kadli,1,0.986814,1,1
+1008,102998,Aritra Ghosh,0,0.0218177,0,0
+1008,121900,Hema Dhapola ,1,0.98648,1,1
+1008,134126,Matber Ali,0,0.00190569,0,0
+1008,119115,Sumit Kumar Prasad,0,0.00496655,0,0
+1008,102397,Mohan Babu,0,0.00332984,0,0
+1008,109599,Lakshminarayanan  Krishanan ,0,0.00361975,0,0
+1008,112855,Rajashekar Agurla,0,0.0266391,0,0
+1008,113568,Kuheli Mukherjee,0,0.000270986,0,0
+1008,109852,Himaja Chanumolu,0,0.00388392,0,0
+1008,118666,Sudarshan Maske,0,0.000163296,0,0
+1008,103740,Venkat Kadam,0,0.00507059,0,0
+1008,127312,Sai Krishna,1,0.969248,1,1
+1008,100564,Ashok S,0,0.000643479,0,0
+1008,107811,Mani Bansal,0,0.00489784,0,0
+1008,103723,Kajal Kumar Roy,0,0.00503707,0,0
+1008,100400,Praveen Aileni,1,0.990862,1,1
+1008,101272,Saikiran D,0,0.00722529,0,0
+1008,105027,Kuldeep Mishra,0,0.00668536,0,0
+1008,110559,Karthik R,0,0.00282719,0,0
+1008,116431,Dheeraj Babbar,0,0.0135987,0,0
+1008,111864,Sneha Parkar,0,0.00880458,0,0
+1008,109241,Sitansu Swain,0,0.00108105,0,0
+1008,138635,Anand Dagare,1,0.993143,1,1
+1008,116010,Hari Prasad Ts,0,0.0113951,0,0
+1008,110213,Parul Jain,0,0.00234386,0,0
+1008,123181,Ankit Gupta,1,0.666029,1,0
+1008,115282,Sumankumar  Madanu ,0,0.00688713,0,0
+1008,107726,Rutuja Kohale,0,0.0253768,0,0
+1008,112180,Nabila Mannan,0,0.00405518,0,0
+1008,100787,Deepu Kumar,0,0.18641,0,0
+1008,100646,Vikas Kumar,0,0.00273101,0,0
+1008,105299,Vinod Karunakaran,0,0.000386556,0,0
+1008,106597,Kumar  P,0,0.0207352,0,0
+1008,102113,Datta Gunjal,0,0.00344147,0,0
+1008,106141,Sachin Wable,1,0.994651,1,1
+1008,115060,Nirmala S,1,0.986177,1,1
+1008,113998,Jagadeesan T,0,0.00039111,0,0
+1008,104384,Keerthana Krishnamurthy,0,0.00221174,0,0
+1008,114678,Yogeshkumar  Gupta ,0,0.000279159,0,0
+1008,115767,Aamir Saif,1,0.98926,1,1
+1008,107449,Abhishek Kumar Singh,0,0.00099333,0,0
+1008,116409,Gunavant Jambu,0,0.0481987,0,0
+1008,103297,Sachin Usapkar,1,0.521488,1,0
+1008,119963,Pintu Kumar Saw,0,0.0028535,0,0
+1008,115834,Indrasena Manga,0,0.00280331,0,0
+1008,109575,Nayana Arya,1,0.97227,1,1
+1008,127419,Easwar Sudheer,1,0.995563,1,1
+1008,101173,Shivani Bharadwaj,0,0.000394347,0,0
+1008,107075,Gaurav Singh Bhadauria,0,0.00188613,0,0
+1008,118590,Adarsh  Kumar,0,0.0035566,0,0
+1008,109427,Ashok Nath,0,0.0054212,0,0
+1008,115525,Waseema Masood,0,0.01025,0,0
+1008,103924,Savita Pandita,1,0.985172,1,1
+1008,112223,Veer Vikram Singh,0,0.0305988,0,0
+1008,119045,Abhay Kumar,1,0.992923,1,1
+1002,109658,Prithviraj R,0,0.043,0,0
+1002,117804,Prathika Akula,1,0.192,0,0
+1002,124246,Srikanth Pasikanti,1,0.448,0,0
+1002,112360,Vikram Addagulla,0,0.0,0,0
+1002,117030,Lakshman P R,0,0.187,0,0
+1002,100230,Kumar Nandan,0,0.002,0,0
+1002,119721,Vishal Gupta,0,0.021,0,0
+1002,117781,Alen Joses R,1,0.101,0,0
+1002,117933,Sumit Dora,1,0.183,0,0
+1002,104576,Subhasis Das,0,0.004,0,0
+1002,110456,Dharani Gayathri ,0,0.0,0,0
+1002,101534,Amit Deshpande,0,0.013,0,0
+1002,117431,George Fernandez,0,0.025,0,0
+1002,145105,Deepthi Vodapalli,0,0.0,0,0
+1002,106890,Prasanth A J,0,0.021,0,0
+1002,121406,Supriya Kulkarni,1,0.286,0,0
+1002,102301,Vishal Singh,0,0.002,0,0
+1002,113694,Deepak Kate,1,0.262,0,0
+1002,114361,Divyashri Bhilare,1,0.545,1,0
+1002,108576,Divyashri Bhilare,0,0.007,0,0
+1002,100365,Ida Victor ,1,0.292,0,0
+1002,103805,Rajni Kadli,1,0.229,0,0
+1002,102998,Aritra Ghosh,0,0.192,0,0
+1002,121900,Hema Dhapola ,1,0.156,0,0
+1002,134126,Matber Ali,0,0.011,0,0
+1002,119115,Sumit Kumar Prasad,0,0.007,0,0
+1002,102397,Mohan Babu,0,0.003,0,0
+1002,109599,Lakshminarayanan  Krishanan ,0,0.003,0,0
+1002,112855,Rajashekar Agurla,0,0.117,0,0
+1002,113568,Kuheli Mukherjee,0,0.015,0,0
+1002,101272,Saikiran D,0,0.033,0,0
+1002,105027,Kuldeep Mishra,0,0.005,0,0
+1002,110559,Karthik R,0,0.017,0,0
+1002,116431,Dheeraj Babbar,0,0.002,0,0
+1002,111864,Sneha Parkar,0,0.008,0,0
+1002,109241,Sitansu Swain,0,0.004,0,0
+1002,138635,Anand Dagare,1,0.237,0,0
+1002,110213,Parul Jain,0,0.003,0,0
+1002,116010,Hari Prasad Ts,0,0.017,0,0
+1002,116407,Bhawna Negi,0,0.047,0,0
+1002,106100,Muthuraj Kalimuthu,0,0.011,0,0
+1002,123181,Ankit Gupta,1,0.017,0,0
+1002,100405,Rahil Ghani,1,0.516,1,0
+1002,105654,Anand Pavan Mandala,0,0.002,0,0
+1002,115282,Sumankumar  Madanu ,0,0.004,0,0
+1002,113851,Neelesh Thallam,1,0.369,0,0
+1002,107726,Rutuja Kohale,0,0.012,0,0
+1002,100787,Deepu Kumar,0,0.12,0,0
+1002,112180,Nabila Mannan,0,0.009,0,0
+1002,118666,Sudarshan Maske,0,0.013,0,0
+1002,109852,Himaja Chanumolu,0,0.01,0,0
+1002,100646,Vikas Kumar,0,0.004,0,0
+1002,107811,Mani Bansal,0,0.002,0,0
+1002,100564,Ashok S,0,0.003,0,0
+1002,127312,Sai Krishna,1,0.023,0,0
+1002,103740,Venkat Kadam,0,0.003,0,0
+1002,105299,Vinod Karunakaran,0,0.002,0,0
+1002,106597,Kumar  P,0,0.001,0,0
+1002,100400,Praveen Aileni,1,0.132,0,0
+1002,103723,Kajal Kumar Roy,0,0.005,0,0
+1002,102113,Datta Gunjal,0,0.121,0,0
+1002,106141,Sachin Wable,1,0.173,0,0
+1002,115060,Nirmala S,1,0.024,0,0
+1002,113998,Jagadeesan T,0,0.001,0,0
+1002,104384,Keerthana Krishnamurthy,0,0.002,0,0
+1002,114678,Yogeshkumar  Gupta ,0,0.005,0,0
+1002,115767,Aamir Saif,1,0.14,0,0
+1002,107449,Abhishek Kumar Singh,0,0.004,0,0
+1002,119963,Pintu Kumar Saw,0,0.005,0,0
+1002,115834,Indrasena Manga,0,0.001,0,0
+1002,109575,Nayana Arya,1,0.219,0,0
+1002,127419,Easwar Sudheer,1,0.388,0,0
+1002,101173,Shivani Bharadwaj,0,0.065,0,0
+1002,107075,Gaurav Singh Bhadauria,0,0.009,0,0
+1002,118590,Adarsh  Kumar,0,0.001,0,0
+1002,109427,Ashok Nath,0,0.01,0,0
+1002,116409,Gunavant Jambu,0,0.024,0,0
+1002,115525,Waseema Masood,0,0.001,0,0
+1002,103297,Sachin Usapkar,1,0.209,0,0
+1002,105922,Vikki Jakkulwar,0,0.002,0,0
+1002,103924,Savita Pandita,1,0.248,0,0
+1002,112223,Veer Vikram Singh,0,0.074,0,0
+1002,119045,Abhay Kumar,1,0.17,0,0
+1002,107490,Manasa Gidige,1,0.016,0,0
+1002,110555,Manasa Gidige,0,0.002,0,0
+1002,133022,Rajni Gautam,0,0.0,0,0
+1002,109383,Sanath Shanmugam,0,0.0,0,0
+1002,144357,Lokesh Puppala,0,0.04,0,0
+1002,104120,Aditya Polepeddi,0,0.097,0,0
+1002,136286,Divakar Dasannagarir,0,0.016,0,0
+1002,112200,Prashant Bhaskarwar,1,0.23,0,0
+1002,123320,Teesta Naskar,1,0.234,0,0
+1002,114160,Anirban Pattanayak,1,0.121,0,0
+1002,119725,Ravi Teja,1,0.042,0,0
+1002,106053,Tanuja Sakpal,1,0.013,0,0
+1002,116666,Pankaj Kale,0,0.001,0,0
+1002,106422,Bhimarao Kamidi,0,0.0,0,0
+1002,107889,Hamla Ma,0,0.002,0,0
+1002,117622,Usamah Moin,0,0.0,0,0
+1002,108058,Swati Kurdekar,0,0.001,0,0
+1013,119045,Abhay Kumar,1,0.925637,1,1
+1013,112223,Veer Vikram Singh,0,0.263377,0,0
+1013,103924,Savita Pandita,1,0.883554,1,1
+1013,105922,Vikki Jakkulwar,0,0.034085,0,0
+1013,103297,Sachin Usapkar,1,0.561238,1,0
+1013,115525,Waseema Masood,0,0.0879791,0,0
+1013,116409,Gunavant Jambu,0,0.344296,0,0
+1013,109427,Ashok Nath,0,0.108858,0,0
+1013,118590,Adarsh  Kumar,0,0.110984,0,0
+1013,107075,Gaurav Singh Bhadauria,0,0.08755,0,0
+1013,101173,Shivani Bharadwaj,0,0.133179,0,0
+1013,127419,Easwar Sudheer,1,0.932829,1,1
+1013,109575,Nayana Arya,1,0.898378,1,1
+1013,115834,Indrasena Manga,0,0.0643376,0,0
+1013,119963,Pintu Kumar Saw,0,0.0943949,0,0
+1013,107449,Abhishek Kumar Singh,0,0.11415,0,0
+1013,115767,Aamir Saif,1,0.924866,1,1
+1013,114678,Yogeshkumar  Gupta ,0,0.18596,0,0
+1013,104384,Keerthana Krishnamurthy,0,0.0698984,0,0
+1013,113998,Jagadeesan T,0,0.19692,0,0
+1013,115060,Nirmala S,1,0.764505,1,1
+1013,106141,Sachin Wable,1,0.907583,1,1
+1013,102113,Datta Gunjal,0,0.162522,0,0
+1013,103723,Kajal Kumar Roy,0,0.206882,0,0
+1013,100400,Praveen Aileni,1,0.806445,1,1
+1013,106597,Kumar  P,0,0.141513,0,0
+1013,105299,Vinod Karunakaran,0,0.220023,0,0
+1013,103740,Venkat Kadam,0,0.0328502,0,0
+1013,127312,Sai Krishna,1,0.915229,1,1
+1013,100564,Ashok S,0,0.183917,0,0
+1013,107811,Mani Bansal,0,0.0977829,0,0
+1013,100646,Vikas Kumar,0,0.0893081,0,0
+1013,109852,Himaja Chanumolu,0,0.128875,0,0
+1013,118666,Sudarshan Maske,0,0.211914,0,0
+1013,112180,Nabila Mannan,0,0.141044,0,0
+1013,100787,Deepu Kumar,0,0.0547192,0,0
+1013,107726,Rutuja Kohale,0,0.260332,0,0
+1013,113851,Neelesh Thallam,1,0.872702,1,1
+1013,115282,Sumankumar  Madanu ,0,0.096149,0,0
+1013,105654,Anand Pavan Mandala,0,0.301936,0,0
+1013,100405,Rahil Ghani,1,0.87976,1,1
+1013,123181,Ankit Gupta,1,0.670812,1,0
+1013,106100,Muthuraj Kalimuthu,0,0.0556102,0,0
+1013,116407,Bhawna Negi,0,0.200781,0,0
+1013,110213,Parul Jain,0,0.0401433,0,0
+1013,116010,Hari Prasad Ts,0,0.344081,0,0
+1013,138635,Anand Dagare,1,0.910968,1,1
+1013,109241,Sitansu Swain,0,0.0352384,0,0
+1013,111864,Sneha Parkar,0,0.133655,0,0
+1013,116431,Dheeraj Babbar,0,0.219346,0,0
+1013,110559,Karthik R,0,0.161187,0,0
+1013,105027,Kuldeep Mishra,0,0.0914166,0,0
+1013,101272,Saikiran D,0,0.11564,0,0
+1013,113568,Kuheli Mukherjee,0,0.0751124,0,0
+1013,112855,Rajashekar Agurla,0,0.376005,0,0
+1013,109599,Lakshminarayanan  Krishanan ,0,0.078708,0,0
+1013,102397,Mohan Babu,0,0.129067,0,0
+1013,119115,Sumit Kumar Prasad,0,0.0556452,0,0
+1013,134126,Matber Ali,0,0.073998,0,0
+1013,121900,Hema Dhapola ,1,0.912851,1,1
+1013,102998,Aritra Ghosh,0,0.197046,0,0
+1013,103805,Rajni Kadli,1,0.871725,1,1
+1013,100365,Ida Victor ,1,0.613792,1,0
+1013,108576,Divyashri Bhilare,0,0.0829238,0,0
+1013,114361,Divyashri Bhilare,1,0.88756,1,1
+1013,113694,Deepak Kate,1,0.608871,1,0
+1013,102301,Vishal Singh,0,0.0918992,0,0
+1013,121406,Supriya Kulkarni,1,0.897916,1,1
+1013,145105,Deepthi Vodapalli,0,0.0542934,0,0
+1013,106890,Prasanth A J,0,0.717556,1,1
+1013,117431,George Fernandez,0,0.256721,0,0
+1013,101534,Amit Deshpande,0,0.0536365,0,0
+1013,110456,Dharani Gayathri ,0,0.0428481,0,0
+1013,104576,Subhasis Das,0,0.272906,0,0
+1013,117933,Sumit Dora,1,0.869304,1,1
+1013,117781,Alen Joses R,1,0.394836,0,0
+1013,119721,Vishal Gupta,0,0.141326,0,0
+1013,100230,Kumar Nandan,0,0.0625795,0,0
+1013,117030,Lakshman P R,0,0.244046,0,0
+1013,112360,Vikram Addagulla,0,0.137224,0,0
+1013,124246,Srikanth Pasikanti,1,0.685665,1,0
+1013,117804,Prathika Akula,1,0.886204,1,1
+1013,109658,Prithviraj R,0,0.340084,0,0
+1013,107490,Manasa Gidige,1,0.662066,1,0
+1013,110555,Manasa Gidige,0,0.15111,0,0
+1013,133022,Rajni Gautam,0,0.207759,0,0
+1013,109383,Sanath Shanmugam,0,0.043059,0,0
+1013,144357,Lokesh Puppala,0,0.0657109,0,0
+1013,104120,Aditya Polepeddi,0,0.353949,0,0
+1013,136286,Divakar Dasannagarir,0,0.244322,0,0
+1013,112200,Prashant Bhaskarwar,1,0.827786,1,1
+1013,123320,Teesta Naskar,1,0.957742,1,1
+1013,114160,Anirban Pattanayak,1,0.263753,0,0
+1013,119725,Ravi Teja,1,0.734777,1,1
+1013,106053,Tanuja Sakpal,1,0.649063,1,0
+1013,116666,Pankaj Kale,0,0.102638,0,0
+1013,106422,Bhimarao Kamidi,0,0.0432466,0,0
+1013,107889,Hamla Ma,0,0.0685815,0,0
+1013,117622,Usamah Moin,0,0.126021,0,0
+1013,108058,Swati Kurdekar,0,0.305318,0,0
+1008,117622,Usamah Moin,0,0.00585384,0,0
+1008,108058,Swati Kurdekar,0,0.0916814,0,0
+1004,117933,Sumit Dora,1,0.840624,1,1
+1004,104576,Subhasis Das,0,0.237648,0,0
+1004,101534,Amit Deshpande,0,0.113168,0,0
+1004,106890,Prasanth A J,0,0.653805,1,0
+1004,145105,Deepthi Vodapalli,0,0.0927791,0,0
+1004,121406,Supriya Kulkarni,1,0.874677,1,1
+1004,113694,Deepak Kate,1,0.567567,1,0
+1004,114361,Divyashri Bhilare,1,0.846473,1,1
+1004,108576,Divyashri Bhilare,0,0.100237,0,0
+1004,100365,Ida Victor ,1,0.598592,1,0
+1004,102998,Aritra Ghosh,0,0.31461,0,0
+1004,121900,Hema Dhapola ,1,0.870779,1,1
+1004,134126,Matber Ali,0,0.113667,0,0
+1004,102397,Mohan Babu,0,0.198624,0,0
+1004,109599,Lakshminarayanan  Krishanan ,0,0.139301,0,0
+1004,112855,Rajashekar Agurla,0,0.402551,0,0
+1004,113568,Kuheli Mukherjee,0,0.155882,0,0
+1004,101272,Saikiran D,0,0.112965,0,0
+1004,105027,Kuldeep Mishra,0,0.131216,0,0
+1004,110559,Karthik R,0,0.219653,0,0
+1004,116431,Dheeraj Babbar,0,0.276744,0,0
+1004,111864,Sneha Parkar,0,0.217583,0,0
+1004,109241,Sitansu Swain,0,0.0571217,0,0
+1004,138635,Anand Dagare,1,0.891106,1,1
+1004,116010,Hari Prasad Ts,0,0.368803,0,0
+1004,116407,Bhawna Negi,0,0.227713,0,0
+1004,106100,Muthuraj Kalimuthu,0,0.115652,0,0
+1004,100405,Rahil Ghani,1,0.806334,1,1
+1004,105654,Anand Pavan Mandala,0,0.25947,0,0
+1004,115282,Sumankumar  Madanu ,0,0.135217,0,0
+1004,113851,Neelesh Thallam,1,0.830563,1,1
+1004,107726,Rutuja Kohale,0,0.328703,0,0
+1004,100787,Deepu Kumar,0,0.0789041,0,0
+1004,112180,Nabila Mannan,0,0.227413,0,0
+1004,118666,Sudarshan Maske,0,0.270177,0,0
+1004,109852,Himaja Chanumolu,0,0.181336,0,0
+1004,100646,Vikas Kumar,0,0.163423,0,0
+1004,107811,Mani Bansal,0,0.152479,0,0
+1004,100564,Ashok S,0,0.221845,0,0
+1004,127312,Sai Krishna,1,0.872356,1,1
+1004,105299,Vinod Karunakaran,0,0.278453,0,0
+1004,106597,Kumar  P,0,0.184142,0,0
+1004,103723,Kajal Kumar Roy,0,0.238041,0,0
+1004,106141,Sachin Wable,1,0.896663,1,1
+1004,115060,Nirmala S,1,0.682084,1,0
+1004,113998,Jagadeesan T,0,0.228085,0,0
+1004,104384,Keerthana Krishnamurthy,0,0.0781686,0,0
+1004,114678,Yogeshkumar  Gupta ,0,0.142977,0,0
+1004,115767,Aamir Saif,1,0.901924,1,1
+1004,107449,Abhishek Kumar Singh,0,0.14647,0,0
+1004,119963,Pintu Kumar Saw,0,0.136123,0,0
+1004,115834,Indrasena Manga,0,0.129272,0,0
+1004,109575,Nayana Arya,1,0.828158,1,1
+1004,127419,Easwar Sudheer,1,0.904032,1,1
+1004,101173,Shivani Bharadwaj,0,0.12978,0,0
+1004,107075,Gaurav Singh Bhadauria,0,0.128501,0,0
+1004,118590,Adarsh  Kumar,0,0.175377,0,0
+1004,109427,Ashok Nath,0,0.150504,0,0
+1004,103297,Sachin Usapkar,1,0.704195,1,1
+1004,105922,Vikki Jakkulwar,0,0.0690029,0,0
+1004,103924,Savita Pandita,1,0.804198,1,1
+1004,112223,Veer Vikram Singh,0,0.262277,0,0
+1004,119045,Abhay Kumar,1,0.898405,1,1
+1004,110456,Dharani Gayathri ,0,0.0903408,0,0
+1004,117431,George Fernandez,0,0.278491,0,0
+1004,102301,Vishal Singh,0,0.129103,0,0
+1004,103805,Rajni Kadli,1,0.785435,1,1
+1004,119115,Sumit Kumar Prasad,0,0.10426,0,0
+1004,110213,Parul Jain,0,0.0915492,0,0
+1004,123181,Ankit Gupta,1,0.684082,1,0
+1004,103740,Venkat Kadam,0,0.0724458,0,0
+1004,100400,Praveen Aileni,1,0.747689,1,1
+1004,102113,Datta Gunjal,0,0.278569,0,0
+1004,116409,Gunavant Jambu,0,0.387477,0,0
+1004,115525,Waseema Masood,0,0.157456,0,0
+1004,117781,Alen Joses R,1,0.449622,0,0
+1004,119721,Vishal Gupta,0,0.180498,0,0
+1004,100230,Kumar Nandan,0,0.110649,0,0
+1004,117030,Lakshman P R,0,0.297341,0,0
+1004,112360,Vikram Addagulla,0,0.201745,0,0
+1004,124246,Srikanth Pasikanti,1,0.60333,1,0
+1004,117804,Prathika Akula,1,0.838928,1,1
+1004,109658,Prithviraj R,0,0.315251,0,0
+1004,107490,Manasa Gidige,1,0.556976,1,0
+1004,110555,Manasa Gidige,0,0.221702,0,0
+1004,133022,Rajni Gautam,0,0.329767,0,0
+1004,109383,Sanath Shanmugam,0,0.0701353,0,0
+1004,144357,Lokesh Puppala,0,0.127037,0,0
+1004,104120,Aditya Polepeddi,0,0.383934,0,0
+1004,136286,Divakar Dasannagarir,0,0.308177,0,0
+1004,112200,Prashant Bhaskarwar,1,0.786792,1,1
+1004,123320,Teesta Naskar,1,0.942281,1,1
+1004,114160,Anirban Pattanayak,1,0.30652,0,0
+1004,119725,Ravi Teja,1,0.633755,1,0
+1004,106053,Tanuja Sakpal,1,0.551647,1,0
+1004,116666,Pankaj Kale,0,0.13648,0,0
+1004,106422,Bhimarao Kamidi,0,0.0842587,0,0
+1004,107889,Hamla Ma,0,0.100811,0,0
+1004,117622,Usamah Moin,0,0.154314,0,0
+1004,108058,Swati Kurdekar,0,0.311831,0,0
+1011,103924,Savita Pandita,1,0.78,1,1
+1015,110555,Manasa Gidige,0,0.00964288,0,0
+1011,112223,Veer Vikram Singh,0,0.73,1,1
+1015,108058,Swati Kurdekar,0,0.0649687,0,0
+1015,117622,Usamah Moin,0,0.0100377,0,0
+1015,107889,Hamla Ma,0,0.0117151,0,0
+1015,106422,Bhimarao Kamidi,0,0.00958825,0,0
+1015,116666,Pankaj Kale,0,0.0161053,0,0
+1015,106053,Tanuja Sakpal,1,0.81851,1,1
+1015,119725,Ravi Teja,1,0.68182,1,0
+1015,114160,Anirban Pattanayak,1,0.0153729,0,0
+1015,123320,Teesta Naskar,1,0.956061,1,1
+1015,112200,Prashant Bhaskarwar,1,0.930032,1,1
+1015,136286,Divakar Dasannagarir,0,0.0179294,0,0
+1015,102301,Vishal Singh,0,0.012471,0,0
+1015,121406,Supriya Kulkarni,1,0.878871,1,1
+1015,100365,Ida Victor ,1,0.940667,1,1
+1015,108576,Divyashri Bhilare,0,0.0109626,0,0
+1015,114361,Divyashri Bhilare,1,0.974692,1,1
+1015,104120,Aditya Polepeddi,0,0.0927818,0,0
+1015,144357,Lokesh Puppala,0,0.0139051,0,0
+1015,109383,Sanath Shanmugam,0,0.00335682,0,0
+1015,133022,Rajni Gautam,0,0.00981026,0,0
+1015,121900,Hema Dhapola ,1,0.844095,1,1
+1015,102998,Aritra Ghosh,0,0.217966,0,0
+1015,116407,Bhawna Negi,0,0.0516142,0,0
+1015,110213,Parul Jain,0,0.00874674,0,0
+1015,116010,Hari Prasad Ts,0,0.0662305,0,0
+1015,138635,Anand Dagare,1,0.962363,1,1
+1015,109241,Sitansu Swain,0,0.00801373,0,0
+1015,111864,Sneha Parkar,0,0.0111265,0,0
+1015,116431,Dheeraj Babbar,0,0.0390751,0,0
+1015,110559,Karthik R,0,0.00924359,0,0
+1015,105027,Kuldeep Mishra,0,0.0113878,0,0
+1015,101272,Saikiran D,0,0.0171949,0,0
+1015,113568,Kuheli Mukherjee,0,0.005032,0,0
+1015,112855,Rajashekar Agurla,0,0.0916415,0,0
+1015,109599,Lakshminarayanan  Krishanan ,0,0.0137367,0,0
+1015,102397,Mohan Babu,0,0.0110312,0,0
+1015,123181,Ankit Gupta,1,0.819133,1,1
+1015,107726,Rutuja Kohale,0,0.113511,0,0
+1015,113851,Neelesh Thallam,1,0.9765,1,1
+1015,107490,Manasa Gidige,1,0.719345,1,1
+1015,109658,Prithviraj R,0,0.122687,0,0
+1015,117804,Prathika Akula,1,0.940667,1,1
+1015,124246,Srikanth Pasikanti,1,0.83127,1,1
+1015,112360,Vikram Addagulla,0,0.00315891,0,0
+1015,117030,Lakshman P R,0,0.0243014,0,0
+1015,100230,Kumar Nandan,0,0.0130915,0,0
+1015,112180,Nabila Mannan,0,0.0115114,0,0
+1015,100564,Ashok S,0,0.016621,0,0
+1015,107811,Mani Bansal,0,0.0111917,0,0
+1015,100646,Vikas Kumar,0,0.0100377,0,0
+1015,109852,Himaja Chanumolu,0,0.0150841,0,0
+1015,105299,Vinod Karunakaran,0,0.032352,0,0
+1015,119721,Vishal Gupta,0,0.0156084,0,0
+1015,117781,Alen Joses R,1,0.275539,0,0
+1015,117933,Sumit Dora,1,0.930992,1,1
+1015,104576,Subhasis Das,0,0.69267,1,0
+1015,110456,Dharani Gayathri ,0,0.011094,0,0
+1015,101534,Amit Deshpande,0,0.0139051,0,0
+1015,117431,George Fernandez,0,0.0682363,0,0
+1015,106890,Prasanth A J,0,0.825583,1,1
+1015,145105,Deepthi Vodapalli,0,0.00366545,0,0
+1015,113694,Deepak Kate,1,0.759002,1,1
+1015,103805,Rajni Kadli,1,0.940667,1,1
+1015,134126,Matber Ali,0,0.0121136,0,0
+1015,119115,Sumit Kumar Prasad,0,0.0095155,0,0
+1015,106100,Muthuraj Kalimuthu,0,0.0117029,0,0
+1015,100405,Rahil Ghani,1,0.993411,1,1
+1015,105654,Anand Pavan Mandala,0,0.0266975,0,0
+1015,115282,Sumankumar  Madanu ,0,0.014618,0,0
+1015,100787,Deepu Kumar,0,0.0111759,0,0
+1015,118666,Sudarshan Maske,0,0.00659122,0,0
+1015,127312,Sai Krishna,1,0.836276,1,1
+1015,103740,Venkat Kadam,0,0.0100426,0,0
+1015,106597,Kumar  P,0,0.0195219,0,0
+1015,100400,Praveen Aileni,1,0.940667,1,1
+1015,104384,Keerthana Krishnamurthy,0,0.00783179,0,0
+1015,113998,Jagadeesan T,0,0.00416863,0,0
+1015,115060,Nirmala S,1,0.890541,1,1
+1015,106141,Sachin Wable,1,0.958245,1,1
+1015,102113,Datta Gunjal,0,0.0153729,0,0
+1015,103723,Kajal Kumar Roy,0,0.0524561,0,0
+1015,114678,Yogeshkumar  Gupta ,0,0.00807138,0,0
+1015,118590,Adarsh  Kumar,0,0.010871,0,0
+1015,107075,Gaurav Singh Bhadauria,0,0.00918648,0,0
+1015,101173,Shivani Bharadwaj,0,0.0035014,0,0
+1015,127419,Easwar Sudheer,1,0.930306,1,1
+1015,109575,Nayana Arya,1,0.962363,1,1
+1015,115834,Indrasena Manga,0,0.00783179,0,0
+1015,119963,Pintu Kumar Saw,0,0.0124983,0,0
+1015,107449,Abhishek Kumar Singh,0,0.00499365,0,0
+1015,115767,Aamir Saif,1,0.940667,1,1
+1015,116409,Gunavant Jambu,0,0.215217,0,0
+1015,109427,Ashok Nath,0,0.0577035,0,0
+1015,115525,Waseema Masood,0,0.0123057,0,0
+1011,119045,Abhay Kumar,1,0.63,1,0
+1015,112223,Veer Vikram Singh,0,0.0674081,0,0
+1015,103924,Savita Pandita,1,0.930032,1,1
+1015,105922,Vikki Jakkulwar,0,0.0095155,0,0
+1015,103297,Sachin Usapkar,1,0.786385,1,1
+1015,119045,Abhay Kumar,1,0.962363,1,1
+1011,105922,Vikki Jakkulwar,0,0.68,1,0
+1011,103297,Sachin Usapkar,1,0.51,1,0
+1011,115525,Waseema Masood,0,0.73,1,1
+1011,116409,Gunavant Jambu,0,0.69,1,0
+1011,109427,Ashok Nath,0,0.64,1,0
+1011,118590,Adarsh  Kumar,0,0.69,1,0
+1011,107075,Gaurav Singh Bhadauria,0,0.64,1,0
+1011,101173,Shivani Bharadwaj,0,0.58,1,0
+1011,127419,Easwar Sudheer,1,0.51,1,0
+1011,109575,Nayana Arya,1,0.7,1,1
+1011,115834,Indrasena Manga,0,0.69,1,0
+1011,119963,Pintu Kumar Saw,0,0.65,1,0
+1011,107449,Abhishek Kumar Singh,0,0.65,1,0
+1011,115767,Aamir Saif,1,0.67,1,0
+1011,114678,Yogeshkumar  Gupta ,0,0.43,0,0
+1011,104384,Keerthana Krishnamurthy,0,0.69,1,0
+1011,113998,Jagadeesan T,0,0.45,0,0
+1011,115060,Nirmala S,1,0.51,1,0
+1011,106141,Sachin Wable,1,0.78,1,1
+1011,102113,Datta Gunjal,0,0.69,1,0
+1011,103723,Kajal Kumar Roy,0,0.47,0,0
+1011,100400,Praveen Aileni,1,0.69,1,0
+1011,106597,Kumar  P,0,0.73,1,1
+1011,105299,Vinod Karunakaran,0,0.47,0,0
+1011,103740,Venkat Kadam,0,0.68,1,0
+1011,127312,Sai Krishna,1,0.51,1,0
+1011,100564,Ashok S,0,0.47,0,0
+1011,107811,Mani Bansal,0,0.69,1,0
+1011,100646,Vikas Kumar,0,0.73,1,1
+1011,109852,Himaja Chanumolu,0,0.73,1,1
+1011,118666,Sudarshan Maske,0,0.67,1,0
+1011,112180,Nabila Mannan,0,0.73,1,1
+1011,100787,Deepu Kumar,0,0.64,1,0
+1011,107726,Rutuja Kohale,0,0.47,0,0
+1011,113851,Neelesh Thallam,1,0.49,0,0
+1011,115282,Sumankumar  Madanu ,0,0.67,1,0
+1011,105654,Anand Pavan Mandala,0,0.48,0,0
+1011,100405,Rahil Ghani,1,0.51,1,0
+1011,123181,Ankit Gupta,1,0.47,0,0
+1011,106100,Muthuraj Kalimuthu,0,0.64,1,0
+1011,116407,Bhawna Negi,0,0.51,1,0
+1011,110213,Parul Jain,0,0.65,1,0
+1011,116010,Hari Prasad Ts,0,0.51,1,0
+1011,138635,Anand Dagare,1,0.68,1,0
+1011,109241,Sitansu Swain,0,0.65,1,0
+1011,111864,Sneha Parkar,0,0.69,1,0
+1011,116431,Dheeraj Babbar,0,0.47,0,0
+1011,110559,Karthik R,0,0.61,1,0
+1011,105027,Kuldeep Mishra,0,0.69,1,0
+1011,101272,Saikiran D,0,0.65,1,0
+1011,113568,Kuheli Mukherjee,0,0.64,1,0
+1011,112855,Rajashekar Agurla,0,0.69,1,0
+1011,109599,Lakshminarayanan  Krishanan ,0,0.64,1,0
+1011,102397,Mohan Babu,0,0.69,1,0
+1011,119115,Sumit Kumar Prasad,0,0.66,1,0
+1011,134126,Matber Ali,0,0.73,1,1
+1011,121900,Hema Dhapola ,1,0.51,1,0
+1011,102998,Aritra Ghosh,0,0.69,1,0
+1011,103805,Rajni Kadli,1,0.71,1,1
+1011,100365,Ida Victor ,1,0.69,1,0
+1011,108576,Divyashri Bhilare,0,0.65,1,0
+1011,114361,Divyashri Bhilare,1,0.51,1,0
+1011,113694,Deepak Kate,1,0.48,0,0
+1011,102301,Vishal Singh,0,0.64,1,0
+1011,121406,Supriya Kulkarni,1,0.48,0,0
+1011,145105,Deepthi Vodapalli,0,0.66,1,0
+1011,106890,Prasanth A J,0,0.48,0,0
+1011,117431,George Fernandez,0,0.76,1,1
+1011,101534,Amit Deshpande,0,0.64,1,0
+1011,110456,Dharani Gayathri ,0,0.64,1,0
+1011,104576,Subhasis Das,0,0.47,0,0
+1011,117933,Sumit Dora,1,0.69,1,0
+1011,117781,Alen Joses R,1,0.51,1,0
+1011,119721,Vishal Gupta,0,0.69,1,0
+1011,100230,Kumar Nandan,0,0.65,1,0
+1011,117030,Lakshman P R,0,0.67,1,0
+1011,112360,Vikram Addagulla,0,0.51,1,0
+1011,124246,Srikanth Pasikanti,1,0.74,1,1
+1011,117804,Prathika Akula,1,0.69,1,0
+1011,109658,Prithviraj R,0,0.69,1,0
+1011,107490,Manasa Gidige,1,0.48,0,0
+1011,110555,Manasa Gidige,0,0.69,1,0
+1011,133022,Rajni Gautam,0,0.73,1,1
+1011,109383,Sanath Shanmugam,0,0.66,1,0
+1011,144357,Lokesh Puppala,0,0.68,1,0
+1011,104120,Aditya Polepeddi,0,0.67,1,0
+1011,136286,Divakar Dasannagarir,0,0.73,1,1
+1011,112200,Prashant Bhaskarwar,1,0.73,1,1
+1011,123320,Teesta Naskar,1,0.67,1,0
+1011,114160,Anirban Pattanayak,1,0.69,1,0
+1011,119725,Ravi Teja,1,0.48,0,0
+1011,106053,Tanuja Sakpal,1,0.51,1,0
+1011,116666,Pankaj Kale,0,0.73,1,1
+1011,106422,Bhimarao Kamidi,0,0.65,1,0
+1011,107889,Hamla Ma,0,0.65,1,0
+1011,117622,Usamah Moin,0,0.73,1,1
+1011,108058,Swati Kurdekar,0,0.51,1,0
